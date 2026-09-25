@@ -1,3 +1,3 @@
-*Category*: Interview
+**Category**: Interview
 
-*Interview members*: Bryan Cantrill
+**Interview members**: Bryan Cantrill
