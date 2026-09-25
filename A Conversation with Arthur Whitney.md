@@ -4,4 +4,6 @@
 
 \- Arthur Whitney
 
-$~~$ Identity
+$~~$ *Identity*
+
+$~~$ The designer of the K and Q languages
