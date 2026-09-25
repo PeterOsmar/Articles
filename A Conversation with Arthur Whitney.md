@@ -2,13 +2,13 @@
 
 **Interview members**
 
-\- Arthur Whitney
+\- ***Arthur Whitney***
 
 $~~$ *Identity*
 
 $~~$ The designer of the K and Q languages
 
-\- Bryan Cantrill
+\- ***Bryan Cantrill***
 
 $~~$ *Identity*
 
