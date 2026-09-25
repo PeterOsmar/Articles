@@ -4,12 +4,8 @@
 
 \- ***Arthur Whitney***
 
-$~~$ *Identity*
-
-$~~$ The designer of the K and Q languages
+$~~$ Identity: The designer of the K and Q languages
 
 \- ***Bryan Cantrill***
 
-$~~$ *Identity*
-
-$~~$ ACM Queue editorial board member
+$~~$ Identity: ACM Queue editorial board member
