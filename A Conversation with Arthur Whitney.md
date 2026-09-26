@@ -737,3 +737,11 @@ $~~$ which is kind of amazing when you think about it, so there’s no garbage c
 $~~$ immediately so you get good reuse. Under the covers, I play with different things. For example, if you’re doing a vector operation and the
 
 $~~$ reference count is one, well, then reuse the vector. I also always try to make the code smaller.
+
+\- **BC**
+
+$~~$ Are you actually redoing the implementation, or are there going to be semantic differences as well?
+
+\- **AW**
+
+$~~$ The implementation is 100 percent new. I write everything from scratch, so the C code is entirely different but the semantics are about 95 percent the same.
