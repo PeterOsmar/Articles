@@ -164,7 +164,9 @@ $~~$ back to APL. What brought you back?
 
 \- **AW**
 
-$~~$ I much preferred implementing and coding in LISP, but once I was dealing with big data sets and then having to do fairly simple calculations, APL just seemed to have the better vocabulary.
+$~~$ I much preferred implementing and coding in LISP, but once I was dealing with big data sets and then having to do fairly simple calculations,
+
+$~~$ APL just seemed to have the better vocabulary.
 
 \- **AW**
 
