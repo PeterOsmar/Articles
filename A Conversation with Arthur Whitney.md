@@ -42,4 +42,6 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~$ life), we invited him to speak with Queue editoria
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~$ tool for dynamic instrumentation of production systems that helps companies identify and fix performance bottlenecks. Whitney
 
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~$ was gracious enough to invite Cantrill to his home in Palo Alto, where they spoke about his career, his languages, and the essence of elegance.
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~$ was gracious enough to invite Cantrill to his home in Palo Alto, where they spoke about his career, his languages, and the
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~$ essence of elegance.
