@@ -622,4 +622,6 @@ $~~$ take as few columns as you need for whatever it is you need to do. You migh
 
 $~~$ got to do four seeks, because we’ve got all these indexes set up so that’s all in memory. If you want all the IBM activity for a certain day, that’s
 
-$~~$ going to be four seeks and then—boom!—you’ll read a few megabytes out of each of those columns. Of course, if you go back to IBM on that day, it will probably be sitting in your file cache.
+$~~$ going to be four seeks and then—boom!—you’ll read a few megabytes out of each of those columns. Of course, if you go back to IBM on
+
+$~~$ that day, it will probably be sitting in your file cache.
