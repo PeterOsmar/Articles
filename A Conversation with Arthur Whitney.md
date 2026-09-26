@@ -321,3 +321,11 @@ $~~$ Yes. I have about 1,000 customers around the world in different banks and h
 $~~$ think the ratio of comment to code for them is actually much greater than one. I never comment anything because I’m always trying to make
 
 $~~$ it so the code itself is the comment.
+
+\- **BC**
+
+$~~$ Do you ever look at your own code and think, “What the hell was I doing here?”
+
+\- **AW**
+
+$~~$ No, I guess I don’t.
