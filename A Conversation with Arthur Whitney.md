@@ -755,3 +755,35 @@ $~~$ You start over in terms of your C code? You take all that and throw it out?
 \- **AW**
 
 $~~$ Yes, completely.
+
+\- **BC**
+
+$~~$ What does it feel like to part with all that code that’s so lovingly created?
+
+\- **AW**
+
+$~~$ I love starting from scratch—and it’s stupid because doing the parser, tokenizer, and printer takes me months.
+
+\- **BC**
+
+$~~$ Do you find that you can come up with a better solution?
+
+\- **AW**
+
+$~~$ I think they’re getting a little bit better, but I think I’m converging.
+
+\- **BC**
+
+$~~$ Is that advice you would give to practitioners: to throw out more?
+
+\- **AW**
+
+$~~$ Yes, but in business it’s hard to do that.
+
+\- **BC**
+
+$~~$ Especially when it’s working!
+
+\- **AW**
+
+$~~$ But I love throwing it all out.
