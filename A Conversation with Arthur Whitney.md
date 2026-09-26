@@ -207,3 +207,11 @@ $~~$ I’m sure that practitioners who know APL only by reputation are going to 
 \- **AW**
 
 $~~$ Yes, at Morgan Stanley I did use the APL characters, but on my next iteration, K, which was in ’92, I gave up on those characters.
+
+\- **BC**
+
+$~~$ Why did you give up on them? And how did you feel about giving up on the characters?
+
+\- **AW**
+
+$~~$ Well, it felt great because it was easier to send e-mails. They’re beautiful characters, but I had to strip the language down. K today has no reserved words; it just uses the ASCII keyboard. It’s completely arbitrary, but it makes me keep the language small.
