@@ -429,3 +429,11 @@ $~~$ Absolutely, because a lot of these symbols are familiar to people from othe
 $~~$ looking at a K program that’s using all 20 of them, they will know a half or a third of them, whereas if they’re looking at a Q program they will
 
 $~~$ know about two-thirds of them.
+
+\- **BC**
+
+$~~$ How important is the readability to the uninitiated?
+
+\- **AW**
+
+$~~$ From a sales point of view, I think it has helped a lot. For someone who programs a few hours a week, I don’t think it would make any difference once they learned K or Q.
