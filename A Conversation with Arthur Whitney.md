@@ -458,4 +458,6 @@ $~~$ If you were to write a program, would you be using the primitives that Q of
 
 \- **AW**
 
-$~~$ Most programming I do would be in K, but if it was a lot of relational-table stuff, I would use Q because a lot of those words are already defined.
+$~~$ Most programming I do would be in K, but if it was a lot of relational-table stuff, I would use Q because a lot of those words are already
+
+$~~$ defined.
