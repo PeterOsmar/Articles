@@ -93,4 +93,7 @@ $~~$ It took me a long time. For the next 10 years I did a little bit of APL in 
 $~~$ working with Ken at a Canadian company called I.P. Sharp that I really began using it regularly. Ken had retired from IBM after 20 years and
 
 $~~$ was working at I.P. Sharp in Toronto.
-I.P. Sharp was an amazing company. It had its own worldwide network that had nothing to do with DARPA (Defense Advanced Research Projects Agency). We were sending e-mails and instant messages to Australia and Singapore. The whole company was APL.
+
+\- **AW**
+
+$~~$ I.P. Sharp was an amazing company. It had its own worldwide network that had nothing to do with DARPA (Defense Advanced Research Projects Agency). We were sending e-mails and instant messages to Australia and Singapore. The whole company was APL.
