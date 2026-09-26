@@ -197,7 +197,8 @@ $~~$ How did your own APL differ from the original? Did you change the primitive
 \- **AW**
 
 $~~$ The primitives were a little different; the grammar was pretty much the same. The syntax was the same. The vocabulary was very similar, but not enough to be anything close to portable.
-BC
+
+\- **BC**
 I’m sure that practitioners who know APL only by reputation are going to wonder if it used the same wonky characters as the original APL.
 AW
 Yes, at Morgan Stanley I did use the APL characters, but on my next iteration, K, which was in ’92, I gave up on those characters.
