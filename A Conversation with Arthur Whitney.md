@@ -551,3 +551,11 @@ $~~$ during the day as well, but they also keep all the history so they can try 
 $~~$ I’ve done column-oriented databases since 1974. In the ’50s they were doing column-oriented databases on file systems. It’s the same data
 
 $~~$ type, so of course you would store it by column.
+
+\- **BC**
+
+$~~$ Obviously that’s the right choice when you’re dealing with that kind of a data hose. If you were to build a transactional system on K, would you still want it to be column-oriented?
+
+\- **AW**
+
+$~~$ Yes, column-oriented databases seem fine. I think the reason they’re fine is because we always set it up so that the hot stuff is in memory. We did that in the ’70s when our memory was 32 K and we did high transaction rates. Now the guys have 128 gig, which is enough for a billion because these records are only 20 or 30 bytes.
