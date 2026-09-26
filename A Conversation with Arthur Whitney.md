@@ -696,4 +696,6 @@ $~~$ What about making K or Q implicitly parallel, where you’re parallelizing 
 
 \- **AW**
 
-$~~$ Maybe. I’ve done parallel programming since ’75, and K is a parallel language. How ironic—this must be the most parallel language there is. The most prominent operator is each, which is parallel. There are no control structures. The primitives themselves are parallel.
+$~~$ Maybe. I’ve done parallel programming since ’75, and K is a parallel language. How ironic—this must be the most parallel language there is.
+
+$~~$ The most prominent operator is each, which is parallel. There are no control structures. The primitives themselves are parallel.
