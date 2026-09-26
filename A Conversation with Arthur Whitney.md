@@ -258,7 +258,9 @@ $~~$ because it’s faster and it’s completely regular.”
 
 \- **BC**
 
-$~~$ This raises an interesting question. When I heard about your early exposure to APL, a part of me wondered if this was like growing up with tonal languages. I think for most people who do not grow up with a tonal language, the brain simply cannot hear or express some of the tone differences because we use tone differently in nontonal languages. Do you think that your exposure to this kind of programming at such a young age actually influenced your thinking at a more nascent level?
+$~~$ This raises an interesting question. When I heard about your early exposure to APL, a part of me wondered if this was like growing up with
+
+$~~$ tonal languages. I think for most people who do not grow up with a tonal language, the brain simply cannot hear or express some of the tone differences because we use tone differently in nontonal languages. Do you think that your exposure to this kind of programming at such a young age actually influenced your thinking at a more nascent level?
 
 \- **AW**
 
