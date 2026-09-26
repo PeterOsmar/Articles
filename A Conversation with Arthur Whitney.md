@@ -681,3 +681,19 @@ $~~$ use single or multiple cores when you do it?
 $~~$ Single core. The data volumes are getting much bigger, and, of course, the core speed is not improving, so our customers have to split the
 
 $~~$ symbol groups.
+
+\- **BC**
+
+$~~$ Then you’ve got to segment your data flow somehow to reflect the fact that single-core performance is not improving.
+
+\- **AW**
+
+$~~$ Yes, and we’re right at that limit now, because with a single core we can do about a million updates a second.
+
+\- **BC**
+
+$~~$ What about making K or Q implicitly parallel, where you’re parallelizing under the hood? Is that a possibility?
+
+\- **AW**
+
+$~~$ Maybe. I’ve done parallel programming since ’75, and K is a parallel language. How ironic—this must be the most parallel language there is. The most prominent operator is each, which is parallel. There are no control structures. The primitives themselves are parallel.
