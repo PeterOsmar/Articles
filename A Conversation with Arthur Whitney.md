@@ -706,4 +706,6 @@ $~~$ Is that something you’re thinking about doing? Will that parallel each ac
 
 \- **AW**
 
-$~~$ Yes, but that doesn’t solve the sorting problem, and it really doesn’t solve the realtime problem, because in realtime if I get an IBM quote, it’s one record. I might want to check it against everything else. Certainly, if I’ve got one-eighth of the symbols operating entirely on their own, then that’s very easy to parallelize; but if your strategy involves all of the symbols all the time, that would be very difficult to run in parallel.
+$~~$ Yes, but that doesn’t solve the sorting problem, and it really doesn’t solve the realtime problem, because in realtime if I get an IBM quote, it’s
+
+$~~$ one record. I might want to check it against everything else. Certainly, if I’ve got one-eighth of the symbols operating entirely on their own, then that’s very easy to parallelize; but if your strategy involves all of the symbols all the time, that would be very difficult to run in parallel.
