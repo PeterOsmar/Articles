@@ -177,3 +177,11 @@ $~~$ had car, cdr, cons, and cond, but that was too little. Common LISP was way 
 $~~$ with about 50 operations. It’s about the same size as C. But the thing about the languages that I implement is that there are no libraries: those
 
 $~~$ 50 operations are it. Everybody builds from there, and the resulting programs are extremely short.
+
+\- **BC**
+
+$~~$ There the problem did serve as a motivator. You had this massive amount of data, and you needed a language that could deal with that large amount of data in a first-class fashion. Did other people around you see the expressive power, because even at that time I would assume that APL was beginning to wane a bit?
+
+\- **AW**
+
+$~~$ APL peaked in the ’70s, but in the finance industry APL was very strong, so there was no difficulty in doing my own APL version.
