@@ -482,7 +482,9 @@ $~~$ And if it’s shorter and faster, I absolutely want to hear about it.
 
 \- **BC**
 
-$~~$ Although I don’t know that I’ve got the same discipline, I share your sense of aesthetics about beautiful code. I don’t see that sense of aesthetics being very widespread in software. Shouldn’t it be, though?
+$~~$ Although I don’t know that I’ve got the same discipline, I share your sense of aesthetics about beautiful code. I don’t see that sense of
+
+$~~$ aesthetics being very widespread in software. Shouldn’t it be, though?
 
 \- **AW**
 
