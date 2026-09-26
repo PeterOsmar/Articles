@@ -678,4 +678,6 @@ $~~$ use single or multiple cores when you do it?
 
 \- **AW**
 
-$~~$ Single core. The data volumes are getting much bigger, and, of course, the core speed is not improving, so our customers have to split the symbol groups.
+$~~$ Single core. The data volumes are getting much bigger, and, of course, the core speed is not improving, so our customers have to split the
+
+$~~$ symbol groups.
