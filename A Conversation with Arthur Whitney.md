@@ -99,3 +99,11 @@ $~~$ was working at I.P. Sharp in Toronto.
 $~~$ I.P. Sharp was an amazing company. It had its own worldwide network that had nothing to do with DARPA (Defense Advanced Research
 
 $~~$ Projects Agency). We were sending e-mails and instant messages to Australia and Singapore. The whole company was APL.
+
+\- **BC**
+
+$~~$ They were selling APL time sharing, right?
+
+\- **AW**
+
+$~~$ Yes, and it was easy because the one computer in Toronto was running the entire world.
