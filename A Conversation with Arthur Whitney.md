@@ -489,3 +489,11 @@ $~~$ aesthetics being very widespread in software. Shouldn’t it be, though?
 \- **AW**
 
 $~~$ I think so. The thing about beautiful code is, first of all, it’s beautiful. Second, it’s a lot easier to maintain.
+
+\- **BC**
+
+$~~$ I think elegant is something that we all know when we see it, but how would you describe elegant code?
+
+\- **AW**
+
+$~~$ It’s just really clear. I don’t know what it is. In our community we have a listbox where people post questions and answers about coding, and the elegant code is always the shortest code.
