@@ -240,4 +240,6 @@ $~~$ too much information out in terms of its readability?
 
 \- **AW**
 
-$~~$ Yes, and I expect I cross that boundary a lot. But if every line has up to seven operations, then I think that’s manageable. In fact, we can remember seven things.
+$~~$ Yes, and I expect I cross that boundary a lot. But if every line has up to seven operations, then I think that’s manageable. In fact, we can
+
+$~~$ remember seven things.
