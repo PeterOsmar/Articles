@@ -190,10 +190,13 @@ $~~$ APL was beginning to wane a bit?
 
 $~~$ APL peaked in the ’70s, but in the finance industry APL was very strong, so there was no difficulty in doing my own APL version.
 
-\- BC
-How did your own APL differ from the original? Did you change the primitives that were being exported?
-AW
-The primitives were a little different; the grammar was pretty much the same. The syntax was the same. The vocabulary was very similar, but not enough to be anything close to portable.
+\- **BC**
+
+$~~$ How did your own APL differ from the original? Did you change the primitives that were being exported?
+
+\- **AW**
+
+$~~$ The primitives were a little different; the grammar was pretty much the same. The syntax was the same. The vocabulary was very similar, but not enough to be anything close to portable.
 BC
 I’m sure that practitioners who know APL only by reputation are going to wonder if it used the same wonky characters as the original APL.
 AW
