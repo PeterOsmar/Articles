@@ -722,7 +722,9 @@ $~~$ I think we just won’t be able to do those kinds of algorithms.
 
 \- **BC**
 
-$~~$ You have this four-year itch to write a new programming language, so you’re coming due. Are the constraints on the problem any different? What’s the new language going to look like?
+$~~$ You have this four-year itch to write a new programming language, so you’re coming due. Are the constraints on the problem any different?
+
+$~~$ What’s the new language going to look like?
 
 \- **AW**
 
