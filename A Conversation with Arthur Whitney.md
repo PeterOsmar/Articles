@@ -158,7 +158,9 @@ $~~$ database and the realtime trading—so our entire department was using my l
 
 \- **BC**
 
-$~~$ You had used APL, and then you explored these other languages—Prolog variants and so on—but when you got to Morgan Stanley you came back to APL. What brought you back?
+$~~$ You had used APL, and then you explored these other languages—Prolog variants and so on—but when you got to Morgan Stanley you came
+
+$~~$ back to APL. What brought you back?
 
 \- **AW**
 
