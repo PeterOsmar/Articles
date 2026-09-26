@@ -594,4 +594,6 @@ $~~$ Yes, but with all the analytics, they could be doing all kinds of updates t
 
 $~~$ that because all your realtime analytics need to be look-ups. You can’t do any aggregations in realtime, so you have a lot of raw data. You
 
-$~~$ have these billion rows of raw data spread among three tables, maybe. You might have 10 or 20 smaller tables that represent a certain state, such as book. There are also certain calculations that you want to maintain so that you can do either constant-time look-up or binary-search look-up.
+$~~$ have these billion rows of raw data spread among three tables, maybe. You might have 10 or 20 smaller tables that represent a certain state,
+
+$~~$ such as book. There are also certain calculations that you want to maintain so that you can do either constant-time look-up or binary-search look-up.
