@@ -349,3 +349,11 @@ $~~$ inspection. How do you debug them?
 $~~$ In C I never learned to use the debugger so I used to never make mistakes, but now I make mistakes and I just put in a print statement. K is
 
 $~~$ interpreted, so it’s a lot easier. If I’m surprised at the value of some local at some point, I can put in a print, and that’s really all I do.
+
+\- **BC**
+
+$~~$ That works well when you have deterministic inputs. What if the nature of the problem is just less reproducible—for example, if you were in an event-driven system where you had a confluence of events that led to a problem?
+
+\- **AW**
+
+$~~$ It has been 20 years now that I’ve had Wall Street customers—they’re doing 2 billion transactions a day and they have trillion-row databases—and in those 20 years, there was one time where we couldn’t reproduce the bug. That was nasty. I knew the kinds of operations that they were doing and I finally found it by just reading my code.
