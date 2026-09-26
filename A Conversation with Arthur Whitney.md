@@ -26,7 +26,7 @@ $~~~~~~~~~~~~~~~~$ languages may mystify those used to wordier languages such as
 
 $~~~~~~~~~~~~~~~~$ engineers on Wall Street.
 
-**Introduction**: Whitney began his Wall Street career in the 1980s, building trading systems at Morgan Stanley using his own version of APL (the
+**Background**: Whitney began his Wall Street career in the 1980s, building trading systems at Morgan Stanley using his own version of APL (the
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~$ language on which all of his later languages are based). Eventually he started his own company, Kx Systems, which today
 
@@ -34,7 +34,7 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~$ provides realtime and historical data-analysis sof
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~$ KDB+, is a column-oriented database based on the K language.
 
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~$ Eager to learn what’s behind Whitney’s unique languages (and curious to see if his reputation for concision carries over into real
+**Introduction**: Eager to learn what’s behind Whitney’s unique languages (and curious to see if his reputation for concision carries over into real
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~$ life), we invited him to speak with Queue editorial board member Bryan Cantrill. Cantrill is best known for developing DTrace, a
 
