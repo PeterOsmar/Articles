@@ -96,4 +96,6 @@ $~~$ was working at I.P. Sharp in Toronto.
 
 \- **AW**
 
-$~~$ I.P. Sharp was an amazing company. It had its own worldwide network that had nothing to do with DARPA (Defense Advanced Research Projects Agency). We were sending e-mails and instant messages to Australia and Singapore. The whole company was APL.
+$~~$ I.P. Sharp was an amazing company. It had its own worldwide network that had nothing to do with DARPA (Defense Advanced Research
+
+$~~$ Projects Agency). We were sending e-mails and instant messages to Australia and Singapore. The whole company was APL.
