@@ -130,7 +130,9 @@ $~~$ intelligence company called Teknowledge.
 
 \- **BC**
 
-$~~$ Were you developing these languages because you needed a certain expressive power in the language to solve a particular problem at hand? What were the motivations for these languages?
+$~~$ Were you developing these languages because you needed a certain expressive power in the language to solve a particular problem at hand?
+
+$~~$ What were the motivations for these languages?
 
 \- **AW**
 
