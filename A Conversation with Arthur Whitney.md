@@ -51,8 +51,9 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~$ essence of elegance.
 $~~$ You are a bit of a rarity in software engineering in that you have been writing software on a daily basis for decades. Your first introduction to
 
 $~~$ computing was APL with the master, Ken Iverson. What was that like?
-ARTHUR WHITNEY
-In 1969, I was 11, and Ken Iverson was at IBM Research in Yorktown. He had been a friend of my dad’s at Harvard in the ’40s. We lived in Alberta, but we were driving around the continent and went to visit him. He showed me programming on a terminal in his house in Mount Kisco. This was in the ’60s, and already it was interactive, and it was very quick to write programs and get results.
+
+\- **ARTHUR WHITNEY**
+$~~$ In 1969, I was 11, and Ken Iverson was at IBM Research in Yorktown. He had been a friend of my dad’s at Harvard in the ’40s. We lived in Alberta, but we were driving around the continent and went to visit him. He showed me programming on a terminal in his house in Mount Kisco. This was in the ’60s, and already it was interactive, and it was very quick to write programs and get results.
 BC
 You must have been the only 11-year-old on the planet getting that kind of demonstration of programming in 1969.
 AW
