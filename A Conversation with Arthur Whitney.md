@@ -661,3 +661,11 @@ $~~$ the day, because of the way people query it, is that we actually sort the e
 $~~$ That operation happens in memory, and then it goes to disk, so it’s actually sorted by security and then time. During the day, however, it’s
 
 $~~$ sorted by time.
+
+\- **BC**
+
+$~~$ That’s a large sort. How long does it take?
+
+\- **AW**
+
+$~~$ You could be sorting a billion rows. That takes a couple of minutes.
