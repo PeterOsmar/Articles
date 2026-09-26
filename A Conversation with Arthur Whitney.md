@@ -405,3 +405,11 @@ $~~$ it’s flawed: there’s no middle ground for a proof.
 $~~$ I want to see if I can get better. Kx is doing fantastic, and it takes just a few hours a month for me, so now I have a clean slate. Every few years
 
 $~~$ I have to do a new language, but the customers don’t really like that.
+
+\- **BC**
+
+$~~$ Q was the last iteration of that process. What are some of the differences between Q and K?
+
+\- **AW**
+
+$~~$ K was all symbolic. It was 20 symbols with a prefix and an infix meaning. With Q, the idea was to have all the monadic cases be words. So now infix are the symbols and prefix are the words.
