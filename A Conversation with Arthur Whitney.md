@@ -383,3 +383,11 @@ $~~$ It seems ridiculous, but it’s only recently that we’ve been doing multi
 $~~$ to reproduce. Of course it has been event-driven since 1988. I don’t know why it is, but it has always been the case that people can quickly
 
 $~~$ find a tiny script that will show the problem.
+
+\- **BC**
+
+$~~$ I think it’s fair to say that you’ve written a lot of flawless code.
+
+\- **AW**
+
+$~~$ Yes. I went millions and millions of hours with no problems—probably tens of millions of hours with no problems.
