@@ -469,3 +469,11 @@ $~~$ When you’re actually in the practice of writing code, do you try many dra
 \- **AW**
 
 $~~$ I’ve found the best thing is just to get something running, and then I’ll redo it probably 10 or 20 times until I can’t get it any smaller.
+
+\- **BC**
+
+$~~$ Do you redo it for aesthetics?
+
+\- **AW**
+
+$~~$ Yes. What I tell my community is if you can find a shorter, more elegant program that isn’t much slower than my code, I want to hear about it. And if it’s shorter and faster, I absolutely want to hear about it.
