@@ -71,3 +71,11 @@ $~~$ Of course, I had no idea about that, and I didn’t really pay much attenti
 $~~$ went to a university and took a computer class, they were using punch cards, which made no sense because five years earlier I had already
 
 $~~$ seen interactive programming.
+
+\- **BC**
+
+$~~$ Did you start working on APL at Waterloo?
+
+\- **AW**
+
+$~~$ No, at Waterloo I just did some APL for a week. I was a math major and I wasn’t interested in computers because I just wanted to do pure math. So I really missed a big opportunity.
