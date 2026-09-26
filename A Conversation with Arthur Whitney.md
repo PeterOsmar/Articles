@@ -329,3 +329,15 @@ $~~$ Do you ever look at your own code and think, “What the hell was I doing h
 \- **AW**
 
 $~~$ No, I guess I don’t.
+
+\- **BC**
+
+$~~$ Wow! I confess that I tend to write comments for my future self. I know that when I come back to code I’ve written, I often don’t recall instantly what the problem at hand was or how I solved it. Now you’ve got me thinking that maybe I’m just in the wrong language. When you’re at this higher level of abstraction, maybe it’s easier to see your intent.
+
+\- **BC**
+
+$~~$ In terms of debugging your code, obviously the power of a terse language such as K or Q is that, presumably, it’s easier to find bugs by inspection. How do you debug them?
+
+\- **AW**
+
+$~~$ In C I never learned to use the debugger so I used to never make mistakes, but now I make mistakes and I just put in a print statement. K is interpreted, so it’s a lot easier. If I’m surprised at the value of some local at some point, I can put in a print, and that’s really all I do.
