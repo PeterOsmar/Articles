@@ -14,4 +14,6 @@ $~~$ Identity: ACM Queue editorial board member
 
 **Title**: A Conversation with Arthur Whitney:
 
-**Subtitle**: Can code ever be too terse? The designer of the K and Q languages discusses this question and many more with Queue editorial board member Bryan Cantrill.
+**Subtitle**: Can code ever be too terse? The designer of the K and Q languages discusses this question and many more with Queue
+
+$~~~~~$ editorial board member Bryan Cantrill.
