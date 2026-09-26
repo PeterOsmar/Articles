@@ -274,7 +274,9 @@ $~~$ because I didn’t start young enough.
 
 \- **BC**
 
-$~~$ To ask a slightly broader question, what is the connection between computer language and thought? To what degree does our choice of how we express software change the way we think about the problem?
+$~~$ To ask a slightly broader question, what is the connection between computer language and thought? To what degree does our choice of how
+
+$~~$ we express software change the way we think about the problem?
 
 \- **AW**
 
