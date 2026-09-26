@@ -476,4 +476,6 @@ $~~$ Do you redo it for aesthetics?
 
 \- **AW**
 
-$~~$ Yes. What I tell my community is if you can find a shorter, more elegant program that isn’t much slower than my code, I want to hear about it. And if it’s shorter and faster, I absolutely want to hear about it.
+$~~$ Yes. What I tell my community is if you can find a shorter, more elegant program that isn’t much slower than my code, I want to hear about it.
+
+$~~$ And if it’s shorter and faster, I absolutely want to hear about it.
