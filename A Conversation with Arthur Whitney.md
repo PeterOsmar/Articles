@@ -180,7 +180,9 @@ $~~$ 50 operations are it. Everybody builds from there, and the resulting progra
 
 \- **BC**
 
-$~~$ There the problem did serve as a motivator. You had this massive amount of data, and you needed a language that could deal with that large amount of data in a first-class fashion. Did other people around you see the expressive power, because even at that time I would assume that APL was beginning to wane a bit?
+$~~$ There the problem did serve as a motivator. You had this massive amount of data, and you needed a language that could deal with that large
+
+$~~$ amount of data in a first-class fashion. Did other people around you see the expressive power, because even at that time I would assume that APL was beginning to wane a bit?
 
 \- **AW**
 
