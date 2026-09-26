@@ -654,4 +654,6 @@ $~~$ Yes, that’s probably a safe bet because the performance would be terrible
 
 \- **AW**
 
-$~~$ But it’s funny—I think all databases are like this. We’re basically keeping every transaction, so that’s all sequential. What happens at the end of the day, because of the way people query it, is that we actually sort the entire day by instrument and then write it out sequentially to disk. That operation happens in memory, and then it goes to disk, so it’s actually sorted by security and then time. During the day, however, it’s sorted by time.
+$~~$ But it’s funny—I think all databases are like this. We’re basically keeping every transaction, so that’s all sequential. What happens at the end of
+
+$~~$ the day, because of the way people query it, is that we actually sort the entire day by instrument and then write it out sequentially to disk. That operation happens in memory, and then it goes to disk, so it’s actually sorted by security and then time. During the day, however, it’s sorted by time.
