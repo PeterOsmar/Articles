@@ -22,4 +22,6 @@ $~~~~~~~~~~~~~~~~~$ editorial board member Bryan Cantrill.
 
 $~~~~~~~~~~~~~~~~$ Q, are known for their terse, often cryptic syntax and tendency to use single ASCII characters instead of reserved words. While these
 
-$~~~~~~~~~~~~~~~~$ languages may mystify those used to wordier languages such as Java, their speed and efficiency has made them popular with engineers on Wall Street.
+$~~~~~~~~~~~~~~~~$ languages may mystify those used to wordier languages such as Java, their speed and efficiency has made them popular with
+
+$~~~~~~~~~~~~~~~~$ engineers on Wall Street.
