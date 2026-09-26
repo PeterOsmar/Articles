@@ -243,3 +243,11 @@ $~~$ too much information out in terms of its readability?
 $~~$ Yes, and I expect I cross that boundary a lot. But if every line has up to seven operations, then I think that’s manageable. In fact, we can
 
 $~~$ remember seven things.
+
+\- **BC**
+
+$~~$ Right. People are able to retain a seven-digit phone number, but it drops off quickly at eight, nine, ten digits.
+
+\- **AW**
+
+$~~$ If you’re Cantonese, then it’s ten. I have a very good friend, Roger Hui, who implements J. He was born in Hong Kong but grew up in Edmonton as I did. One day I asked him, “Roger, do you do math in English or Cantonese?” He smiled at me and said, “I do it in Cantonese because it’s faster and it’s completely regular.”
