@@ -672,7 +672,9 @@ $~~$ You could be sorting a billion rows. That takes a couple of minutes.
 
 \- **BC**
 
-$~~$ The single CPU pipes are approaching their limits. In terms of that sort taking a couple of minutes, that’s 100 percent compute time. Do you use single or multiple cores when you do it?
+$~~$ The single CPU pipes are approaching their limits. In terms of that sort taking a couple of minutes, that’s 100 percent compute time. Do you
+
+$~~$ use single or multiple cores when you do it?
 
 \- **AW**
 
