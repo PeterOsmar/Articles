@@ -732,4 +732,6 @@ $~~$ It will probably be 95 percent the same. It’s the same semantics: noun, v
 
 $~~$ different things under the covers. For example, I like to try different memory allocation schemes. It’s all call by value but reference count,
 
-$~~$ which is kind of amazing when you think about it, so there’s no garbage collect. Everything is reference counted; when it’s free, you know immediately so you get good reuse. Under the covers, I play with different things. For example, if you’re doing a vector operation and the reference count is one, well, then reuse the vector. I also always try to make the code smaller.
+$~~$ which is kind of amazing when you think about it, so there’s no garbage collect. Everything is reference counted; when it’s free, you know
+
+$~~$ immediately so you get good reuse. Under the covers, I play with different things. For example, if you’re doing a vector operation and the reference count is one, well, then reuse the vector. I also always try to make the code smaller.
