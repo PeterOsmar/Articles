@@ -711,3 +711,19 @@ $~~$ Yes, but that doesn’t solve the sorting problem, and it really doesn’t 
 $~~$ one record. I might want to check it against everything else. Certainly, if I’ve got one-eighth of the symbols operating entirely on their own,
 
 $~~$ then that’s very easy to parallelize; but if your strategy involves all of the symbols all the time, that would be very difficult to run in parallel.
+
+\- **BC**
+
+$~~$ What’s the solution?
+
+\- **AW**
+
+$~~$ I think we just won’t be able to do those kinds of algorithms.
+
+\- **BC**
+
+$~~$ You have this four-year itch to write a new programming language, so you’re coming due. Are the constraints on the problem any different? What’s the new language going to look like?
+
+\- **AW**
+
+$~~$ It will probably be 95 percent the same. It’s the same semantics: noun, verb, adverb—same data types, same functions. But I like to try different things under the covers. For example, I like to try different memory allocation schemes. It’s all call by value but reference count, which is kind of amazing when you think about it, so there’s no garbage collect. Everything is reference counted; when it’s free, you know immediately so you get good reuse. Under the covers, I play with different things. For example, if you’re doing a vector operation and the reference count is one, well, then reuse the vector. I also always try to make the code smaller.
