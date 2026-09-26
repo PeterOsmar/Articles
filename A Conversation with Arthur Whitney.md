@@ -499,3 +499,11 @@ $~~$ I think elegant is something that we all know when we see it, but how would
 $~~$ It’s just really clear. I don’t know what it is. In our community we have a listbox where people post questions and answers about coding, and
 
 $~~$ the elegant code is always the shortest code.
+
+\- **BC**
+
+$~~$ Is it elegant because it’s the shortest, or is being short a side effect of being elegant?
+
+\- **AW**
+
+$~~$ I guess it’s both. All things being equal, less code is always better.
