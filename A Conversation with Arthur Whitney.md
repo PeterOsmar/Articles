@@ -300,7 +300,9 @@ $~~$ ’70s there was a lot of work on trying to prove programs correct. In this
 
 $~~$ provability techniques that they were actually doing binary search. They handed in these long papers that were just so well argued, but the
 
-$~~$ programs didn’t work. I don’t think a single one handled the edge conditions correctly. I could read the code and see the mistake, but I couldn’t read the proofs.
+$~~$ programs didn’t work. I don’t think a single one handled the edge conditions correctly. I could read the code and see the mistake, but I
+
+$~~$ couldn’t read the proofs.
 
 \- **AW**
 
