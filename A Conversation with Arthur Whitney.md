@@ -231,3 +231,11 @@ $~~$ And we use them in different contexts and different ways.
 \- **AW**
 
 $~~$ Certainly it’s unfamiliar, and people say, “Oh, it looks like line noise.” But even kids can learn this quickly.
+
+\- **BC**
+
+$~~$ Obviously, a point of pride for K is the ability to phrase things concisely. Is there any length that is too short, where you’ve actually squeezed too much information out in terms of its readability?
+
+\- **AW**
+
+$~~$ Yes, and I expect I cross that boundary a lot. But if every line has up to seven operations, then I think that’s manageable. In fact, we can remember seven things.
