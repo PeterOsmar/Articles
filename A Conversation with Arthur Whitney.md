@@ -461,3 +461,11 @@ $~~$ If you were to write a program, would you be using the primitives that Q of
 $~~$ Most programming I do would be in K, but if it was a lot of relational-table stuff, I would use Q because a lot of those words are already
 
 $~~$ defined.
+
+\- **BC**
+
+$~~$ When you’re actually in the practice of writing code, do you try many drafts?
+
+\- **AW**
+
+$~~$ I’ve found the best thing is just to get something running, and then I’ll redo it probably 10 or 20 times until I can’t get it any smaller.
