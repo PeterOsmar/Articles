@@ -744,4 +744,14 @@ $~~$ Are you actually redoing the implementation, or are there going to be seman
 
 \- **AW**
 
-$~~$ The implementation is 100 percent new. I write everything from scratch, so the C code is entirely different but the semantics are about 95 percent the same.
+$~~$ The implementation is 100 percent new. I write everything from scratch, so the C code is entirely different but the semantics are about 95
+
+$~~$ percent the same.
+
+\- **BC**
+
+$~~$ You start over in terms of your C code? You take all that and throw it out?
+
+\- **AW**
+
+$~~$ Yes, completely.
