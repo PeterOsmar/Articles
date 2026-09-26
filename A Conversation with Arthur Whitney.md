@@ -565,3 +565,11 @@ $~~$ Yes, column-oriented databases seem fine. I think the reason they’re fine
 $~~$ did that in the ’70s when our memory was 32 K and we did high transaction rates. Now the guys have 128 gig, which is enough for a billion
 
 $~~$ because these records are only 20 or 30 bytes.
+
+\- **BC**
+
+$~~$ So they load the whole thing into memory and then operate on it?
+
+\- **AW**
+
+$~~$ All day long all the hot stuff is in memory, and then during the day it takes about two minutes to write the whole thing down to disk and then flip to a new day and start from scratch.
