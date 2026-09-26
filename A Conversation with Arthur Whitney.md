@@ -155,3 +155,15 @@ $~~$ operations in the world. We had a portfolio that was a billion dollars: hal
 $~~$ electronically. The data set was a terabyte, but we compressed it down. It was pairs trading, and I wrote an APL to do all of that—the big
 
 $~~$ database and the realtime trading—so our entire department was using my language.
+
+\- **BC**
+
+$~~$ You had used APL, and then you explored these other languages—Prolog variants and so on—but when you got to Morgan Stanley you came back to APL. What brought you back?
+
+\- **AW**
+
+$~~$ I much preferred implementing and coding in LISP, but once I was dealing with big data sets and then having to do fairly simple calculations, APL just seemed to have the better vocabulary.
+
+\- **AW**
+
+$~~$ It had to come up one level. Common LISP even then had about 2,000 primitives. I didn’t like that. What I liked was the original LISP, which had car, cdr, cons, and cond, but that was too little. Common LISP was way too big, but a stripped-down version of APL was in the middle with about 50 operations. It’s about the same size as C. But the thing about the languages that I implement is that there are no libraries: those 50 operations are it. Everybody builds from there, and the resulting programs are extremely short.
