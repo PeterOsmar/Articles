@@ -48,13 +48,13 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~$ essence of elegance.
 
 **Conversation**
 
-\- **BRYAN CANTRILL**
+\- _**BRYAN CANTRILL**_
 
-$~~$ You are a bit of a rarity in software engineering in that you have been writing software on a daily basis for decades. Your first introduction to
+$~~$ You are a bit of a rarity in software engineering in that you have been writing software on a daily basis for decades. Your 1st introduction to
 
 $~~$ computing was APL with the master, Ken Iverson. What was that like?
 
-\- **ARTHUR WHITNEY**
+\- _**ARTHUR WHITNEY**_
 
 $~~$ In 1969, I was 11, and Ken Iverson was at IBM Research in Yorktown. He had been a friend of my dad’s at Harvard in the ’40s. We lived in
 
