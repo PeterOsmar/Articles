@@ -669,3 +669,11 @@ $~~$ That’s a large sort. How long does it take?
 \- **AW**
 
 $~~$ You could be sorting a billion rows. That takes a couple of minutes.
+
+\- **BC**
+
+$~~$ The single CPU pipes are approaching their limits. In terms of that sort taking a couple of minutes, that’s 100 percent compute time. Do you use single or multiple cores when you do it?
+
+\- **AW**
+
+$~~$ Single core. The data volumes are getting much bigger, and, of course, the core speed is not improving, so our customers have to split the symbol groups.
