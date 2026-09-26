@@ -63,3 +63,7 @@ $~~$ Kisco. This was in the ’60s, and already it was interactive, and it was v
 \- **BC**
 
 $~~$ You must have been the only 11-year-old on the planet getting that kind of demonstration of programming in 1969.
+
+\- **AW**
+
+$~~$ Of course, I had no idea about that, and I didn’t really pay much attention. He showed me some stuff, and I thought it was cool. In ’74 when I went to a university and took a computer class, they were using punch cards, which made no sense because five years earlier I had already seen interactive programming.
