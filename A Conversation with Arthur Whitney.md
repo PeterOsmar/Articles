@@ -412,4 +412,6 @@ $~~$ Q was the last iteration of that process. What are some of the differences 
 
 \- **AW**
 
-$~~$ K was all symbolic. It was 20 symbols with a prefix and an infix meaning. With Q, the idea was to have all the monadic cases be words. So now infix are the symbols and prefix are the words.
+$~~$ K was all symbolic. It was 20 symbols with a prefix and an infix meaning. With Q, the idea was to have all the monadic cases be words. So now
+
+$~~$ infix are the symbols and prefix are the words.
