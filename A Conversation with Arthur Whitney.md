@@ -496,4 +496,6 @@ $~~$ I think elegant is something that we all know when we see it, but how would
 
 \- **AW**
 
-$~~$ It’s just really clear. I don’t know what it is. In our community we have a listbox where people post questions and answers about coding, and the elegant code is always the shortest code.
+$~~$ It’s just really clear. I don’t know what it is. In our community we have a listbox where people post questions and answers about coding, and
+
+$~~$ the elegant code is always the shortest code.
