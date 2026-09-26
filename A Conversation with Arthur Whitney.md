@@ -548,4 +548,6 @@ $~~$ during the day as well, but they also keep all the history so they can try 
 
 \- **AW**
 
-$~~$ I’ve done column-oriented databases since 1974. In the ’50s they were doing column-oriented databases on file systems. It’s the same data type, so of course you would store it by column.
+$~~$ I’ve done column-oriented databases since 1974. In the ’50s they were doing column-oriented databases on file systems. It’s the same data
+
+$~~$ type, so of course you would store it by column.
