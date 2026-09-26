@@ -451,3 +451,11 @@ $~~$ Right. It’s a little confusing because every three or four years I do an 
 $~~$ a year 2000 K. It’s the 2000 K that’s underneath Q, so that implementation of K and Q are exactly the same, except that Q has a library of 50
 
 $~~$ additional operations, which are table-related, written in K.
+
+\- **BC**
+
+$~~$ If you were to write a program, would you be using the primitives that Q offers or would you write it in K?
+
+\- **AW**
+
+$~~$ Most programming I do would be in K, but if it was a lot of relational-table stuff, I would use Q because a lot of those words are already defined.
