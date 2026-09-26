@@ -340,7 +340,9 @@ $~~$ you’re at this higher level of abstraction, maybe it’s easier to see yo
 
 \- **BC**
 
-$~~$ In terms of debugging your code, obviously the power of a terse language such as K or Q is that, presumably, it’s easier to find bugs by inspection. How do you debug them?
+$~~$ In terms of debugging your code, obviously the power of a terse language such as K or Q is that, presumably, it’s easier to find bugs by
+
+$~~$ inspection. How do you debug them?
 
 \- **AW**
 
