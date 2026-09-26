@@ -415,3 +415,11 @@ $~~$ Q was the last iteration of that process. What are some of the differences 
 $~~$ K was all symbolic. It was 20 symbols with a prefix and an infix meaning. With Q, the idea was to have all the monadic cases be words. So now
 
 $~~$ infix are the symbols and prefix are the words.
+
+\- **BC**
+
+$~~$ This gives it what you call the wordiness—I think what others might call readability. For those who are not in that world, will a Q program look more readable than a K program?
+
+\- **AW**
+
+$~~$ Absolutely, because a lot of these symbols are familiar to people from other languages—plus, minus, times, greater than, less than. If they’re looking at a K program that’s using all 20 of them, they will know a half or a third of them, whereas if they’re looking at a Q program they will know about two-thirds of them.
