@@ -306,4 +306,6 @@ $~~$ couldn’t read the proofs.
 
 \- **AW**
 
-$~~$ Ken believed that notation should be as high level as possible because, for example, if matrix product is plus-dot-times, there’s no question about that being correct.
+$~~$ Ken believed that notation should be as high level as possible because, for example, if matrix product is plus-dot-times, there’s no question
+
+$~~$ about that being correct.
