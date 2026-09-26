@@ -107,3 +107,15 @@ $~~$ They were selling APL time sharing, right?
 \- **AW**
 
 $~~$ Yes, and it was easy because the one computer in Toronto was running the entire world.
+
+\- **BC**
+
+$~~$ What kinds of problems were people using the APL time-sharing service for?
+
+\- **AW**
+
+$~~$ It was mostly general-purpose business computing, such as accounting systems. I did a 2-billion-row database, so we were doing very big databases and data analysis—what today, 20 years later, they call OLAP (online analytical processing).
+
+\- **AW**
+
+$~~$ I left I.P. Sharp sometime around 1980. Then I went to graduate school at the University of Toronto where I did pure mathematics, but mostly I was just goofing around. All through the ’80s I was implementing my own languages: object-oriented languages, a lot of different LISPs, Prolog. In 1985 I got a job at Stanford, where I implemented a Prolog inference-engine kind of language. Then I was with an artificial intelligence company called Teknowledge.
