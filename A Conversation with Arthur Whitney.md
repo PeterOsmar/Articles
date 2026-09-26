@@ -630,7 +630,9 @@ $~~$ that day, it will probably be sitting in your file cache.
 
 $~~$ That’s assuming, too, that when I’m accessing a file sequentially, it corresponds to sequential accesses on disk, which is not necessarily the
 
-$~~$ case for copy-on-write file systems. For file systems such as ZFS and WAFL (write anywhere file layout), if that data were not written in a temporally sequential manner, it would not necessarily be sequential on disk. Do you find that you run into those kinds of problems, or does the data tend to be written temporally sequentially as well?
+$~~$ case for copy-on-write file systems. For file systems such as ZFS and WAFL (write anywhere file layout), if that data were not written in a
+
+$~~$ temporally sequential manner, it would not necessarily be sequential on disk. Do you find that you run into those kinds of problems, or does the data tend to be written temporally sequentially as well?
 
 \- **AW**
 
