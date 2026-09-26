@@ -127,3 +127,19 @@ $~~$ was just goofing around. All through the ’80s I was implementing my own l
 $~~$ Prolog. In 1985 I got a job at Stanford, where I implemented a Prolog inference-engine kind of language. Then I was with an artificial
 
 $~~$ intelligence company called Teknowledge.
+
+\- **BC**
+
+$~~$ Were you developing these languages because you needed a certain expressive power in the language to solve a particular problem at hand? What were the motivations for these languages?
+
+\- **AW**
+
+$~~$ My motivation was always to create a general-purpose programming language that would solve all problems and be interpreted, but fast.
+
+\- **AW**
+
+$~~$ At Stanford the language was determined by the professor, and he wanted to have an inference engine, so the motivation there was artificial intelligence, but I wasn’t much interested in that.
+
+\- **AW**
+
+$~~$ My big break was in 1988 when I joined Morgan Stanley. There the motivation was a terabyte of TIC (Treasury International Capital) data, and back then there were a few million transactions a day being processed by realtime trading systems. I think we had one of the biggest trading operations in the world. We had a portfolio that was a billion dollars: half a billion long, half a billion short. We were trading every second electronically. The data set was a terabyte, but we compressed it down. It was pairs trading, and I wrote an APL to do all of that—the big database and the realtime trading—so our entire department was using my language.
