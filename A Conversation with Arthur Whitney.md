@@ -34,4 +34,6 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~$ realtime and historical data-analysis software to m
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~$ column-oriented database based on the K language.
 
-**Introduction**: Eager to learn what’s behind Whitney’s unique languages (and curious to see if his reputation for concision carries over into real life), we invited him to speak with Queue editorial board member Bryan Cantrill. Cantrill is best known for developing DTrace, a tool for dynamic instrumentation of production systems that helps companies identify and fix performance bottlenecks. Whitney was gracious enough to invite Cantrill to his home in Palo Alto, where they spoke about his career, his languages, and the essence of elegance.
+**Introduction**: Eager to learn what’s behind Whitney’s unique languages (and curious to see if his reputation for concision carries over into real
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~$ life), we invited him to speak with Queue editorial board member Bryan Cantrill. Cantrill is best known for developing DTrace, a tool for dynamic instrumentation of production systems that helps companies identify and fix performance bottlenecks. Whitney was gracious enough to invite Cantrill to his home in Palo Alto, where they spoke about his career, his languages, and the essence of elegance.
