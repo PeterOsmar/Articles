@@ -572,4 +572,6 @@ $~~$ So they load the whole thing into memory and then operate on it?
 
 \- **AW**
 
-$~~$ All day long all the hot stuff is in memory, and then during the day it takes about two minutes to write the whole thing down to disk and then flip to a new day and start from scratch.
+$~~$ All day long all the hot stuff is in memory, and then during the day it takes about two minutes to write the whole thing down to disk and then
+
+$~~$ flip to a new day and start from scratch.
