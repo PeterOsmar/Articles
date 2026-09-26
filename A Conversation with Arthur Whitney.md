@@ -252,4 +252,6 @@ $~~$ Right. People are able to retain a seven-digit phone number, but it drops o
 
 $~~$ If you’re Cantonese, then it’s ten. I have a very good friend, Roger Hui, who implements J. He was born in Hong Kong but grew up in
 
-$~~$ Edmonton as I did. One day I asked him, “Roger, do you do math in English or Cantonese?” He smiled at me and said, “I do it in Cantonese because it’s faster and it’s completely regular.”
+$~~$ Edmonton as I did. One day I asked him, “Roger, do you do math in English or Cantonese?” He smiled at me and said, “I do it in Cantonese
+
+$~~$ because it’s faster and it’s completely regular.”
