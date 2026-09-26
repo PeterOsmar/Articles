@@ -363,3 +363,12 @@ $~~$ It has been 20 years now that I’ve had Wall Street customers—they’re 
 $~~$ —and in those 20 years, there was one time where we couldn’t reproduce the bug. That was nasty. I knew the kinds of operations that they
 
 $~~$ were doing and I finally found it by just reading my code.
+
+\- **BC**
+
+$~~$ Was this a bug in K or Q, or was it in the C base implementation?
+
+\- **AW**
+
+$~~$ It was a bug in C, in my implementation.
+
