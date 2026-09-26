@@ -699,3 +699,11 @@ $~~$ What about making K or Q implicitly parallel, where you’re parallelizing 
 $~~$ Maybe. I’ve done parallel programming since ’75, and K is a parallel language. How ironic—this must be the most parallel language there is.
 
 $~~$ The most prominent operator is each, which is parallel. There are no control structures. The primitives themselves are parallel.
+
+\- **BC**
+
+$~~$ Is that something you’re thinking about doing? Will that parallel each actually consume multiple cores?
+
+\- **AW**
+
+$~~$ Yes, but that doesn’t solve the sorting problem, and it really doesn’t solve the realtime problem, because in realtime if I get an IBM quote, it’s one record. I might want to check it against everything else. Certainly, if I’ve got one-eighth of the symbols operating entirely on their own, then that’s very easy to parallelize; but if your strategy involves all of the symbols all the time, that would be very difficult to run in parallel.
