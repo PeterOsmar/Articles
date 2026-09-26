@@ -604,7 +604,9 @@ $~~$ look-up.
 
 $~~$ You were saying that keeping data in DRAM is incredibly important for your performance. Looking down the track, what do you see in terms
 
-$~~$ of the technologies that are coming? In particular, I’ve got to ask you about Flash and whether you think Flash memory is interesting in terms of its ability to get not DRAM speeds, but much-better-than-disk speeds. Does that pose any sort of change?
+$~~$ of the technologies that are coming? In particular, I’ve got to ask you about Flash and whether you think Flash memory is interesting in terms
+
+$~~$ of its ability to get not DRAM speeds, but much-better-than-disk speeds. Does that pose any sort of change?
 
 \- **AW**
 
