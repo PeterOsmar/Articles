@@ -639,3 +639,11 @@ $~~$ the data tend to be written temporally sequentially as well?
 \- **AW**
 
 $~~$ It’s always written temporally sequentially.
+
+\- **BC**
+
+$~~$ So that doesn’t become an issue?
+
+\- **AW**
+
+$~~$ I don’t think so. I probably would have heard about it.
