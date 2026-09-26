@@ -518,8 +518,18 @@ $~~$ It’s the same thing. It’s usually easier to understand.
 
 \- **BC**
 
-$~~$ Software has often been compared with civil engineering, but I’m really sick of people describing software as being like a bridge. What do you think the analog for software is?
+$~~$ Software has often been compared with civil engineering, but I’m really sick of people describing software as being like a bridge. What do you
+
+$~~$ think the analog for software is?
 
 \- **AW**
 
 $~~$ Poetry.
+
+\- **BC**
+
+$~~$ Poetry captures the aesthetics, but not the precision.
+
+\- **AW**
+
+$~~$ I don’t know, maybe it does.
