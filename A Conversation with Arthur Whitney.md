@@ -658,4 +658,6 @@ $~~$ But it’s funny—I think all databases are like this. We’re basically k
 
 $~~$ the day, because of the way people query it, is that we actually sort the entire day by instrument and then write it out sequentially to disk.
 
-$~~$ That operation happens in memory, and then it goes to disk, so it’s actually sorted by security and then time. During the day, however, it’s sorted by time.
+$~~$ That operation happens in memory, and then it goes to disk, so it’s actually sorted by security and then time. During the day, however, it’s
+
+$~~$ sorted by time.
