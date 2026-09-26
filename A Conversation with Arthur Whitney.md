@@ -81,3 +81,12 @@ $~~$ Did you start working on APL at Waterloo?
 $~~$ No, at Waterloo I just did some APL for a week. I was a math major and I wasn’t interested in computers because I just wanted to do pure
 
 $~~$ math. So I really missed a big opportunity.
+
+\- **BC**
+
+$~~$ Well, I’m not sure if you missed it or if you just found the opportunity a different way.
+
+\- **AW**
+
+$~~$ It took me a long time. For the next 10 years I did a little bit of APL in the summers as a consultant, but it wasn’t until about 1980 when I was working with Ken at a Canadian company called I.P. Sharp that I really began using it regularly. Ken had retired from IBM after 20 years and was working at I.P. Sharp in Toronto.
+I.P. Sharp was an amazing company. It had its own worldwide network that had nothing to do with DARPA (Defense Advanced Research Projects Agency). We were sending e-mails and instant messages to Australia and Singapore. The whole company was APL.
