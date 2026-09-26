@@ -309,3 +309,11 @@ $~~$ couldn’t read the proofs.
 $~~$ Ken believed that notation should be as high level as possible because, for example, if matrix product is plus-dot-times, there’s no question
 
 $~~$ about that being correct.
+
+\- **BC**
+
+$~~$ By raising the level of abstraction, you make it easier for things to be correct by inspection.
+
+\- **AW**
+
+$~~$ Yes. I have about 1,000 customers around the world in different banks and hedge funds on the equity side (where everything’s going fine). I think the ratio of comment to code for them is actually much greater than one. I never comment anything because I’m always trying to make it so the code itself is the comment.
