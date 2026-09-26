@@ -507,3 +507,19 @@ $~~$ Is it elegant because it’s the shortest, or is being short a side effect 
 \- **AW**
 
 $~~$ I guess it’s both. All things being equal, less code is always better.
+
+\- **BC**
+
+$~~$ I was just thinking of the analog to a proof. The shorter proof is almost always the more elegant proof.
+
+\- **AW**
+
+$~~$ It’s the same thing. It’s usually easier to understand.
+
+\- **BC**
+
+$~~$ Software has often been compared with civil engineering, but I’m really sick of people describing software as being like a bridge. What do you think the analog for software is?
+
+\- **AW**
+
+$~~$ Poetry.
