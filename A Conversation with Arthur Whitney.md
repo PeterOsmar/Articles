@@ -234,7 +234,9 @@ $~~$ Certainly it’s unfamiliar, and people say, “Oh, it looks like line nois
 
 \- **BC**
 
-$~~$ Obviously, a point of pride for K is the ability to phrase things concisely. Is there any length that is too short, where you’ve actually squeezed too much information out in terms of its readability?
+$~~$ Obviously, a point of pride for K is the ability to phrase things concisely. Is there any length that is too short, where you’ve actually squeezed 
+
+$~~$ too much information out in terms of its readability?
 
 \- **AW**
 
