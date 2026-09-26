@@ -424,4 +424,6 @@ $~~$ more readable than a K program?
 
 \- **AW**
 
-$~~$ Absolutely, because a lot of these symbols are familiar to people from other languages—plus, minus, times, greater than, less than. If they’re looking at a K program that’s using all 20 of them, they will know a half or a third of them, whereas if they’re looking at a Q program they will know about two-thirds of them.
+$~~$ Absolutely, because a lot of these symbols are familiar to people from other languages—plus, minus, times, greater than, less than. If they’re
+
+$~~$ looking at a K program that’s using all 20 of them, they will know a half or a third of them, whereas if they’re looking at a Q program they will know about two-thirds of them.
