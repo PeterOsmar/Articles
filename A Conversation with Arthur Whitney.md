@@ -1,5 +1,7 @@
 **Category**: Interview
 
+**Belonged Magazine**: ACM Queue
+
 **Interview members**
 
 \- _**Arthur Whitney**_
