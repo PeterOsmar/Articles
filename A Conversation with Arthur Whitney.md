@@ -78,4 +78,6 @@ $~~$ Did you start working on APL at Waterloo?
 
 \- **AW**
 
-$~~$ No, at Waterloo I just did some APL for a week. I was a math major and I wasn’t interested in computers because I just wanted to do pure math. So I really missed a big opportunity.
+$~~$ No, at Waterloo I just did some APL for a week. I was a math major and I wasn’t interested in computers because I just wanted to do pure
+
+$~~$ math. So I really missed a big opportunity.
