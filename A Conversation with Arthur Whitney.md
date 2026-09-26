@@ -402,4 +402,6 @@ $~~$ it’s flawed: there’s no middle ground for a proof.
 
 \- **AW**
 
-$~~$ I want to see if I can get better. Kx is doing fantastic, and it takes just a few hours a month for me, so now I have a clean slate. Every few years I have to do a new language, but the customers don’t really like that.
+$~~$ I want to see if I can get better. Kx is doing fantastic, and it takes just a few hours a month for me, so now I have a clean slate. Every few years
+
+$~~$ I have to do a new language, but the customers don’t really like that.
