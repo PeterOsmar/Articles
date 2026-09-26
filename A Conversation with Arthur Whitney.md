@@ -220,7 +220,9 @@ $~~$ reserved words; it just uses the ASCII keyboard. It’s completely arbitrar
 
 \- **BC**
 
-$~~$ You speak about the arbitrariness in using the ASCII keyboard. I heard one feature being described as this: “When Arthur ran out of punctuation, he used a leading underscore to denote system primitives.” When I read that I thought to myself, “That’s a little ridiculous,” but then I thought of all the goofy punctuation characters we have in other languages: C uses nearly all of them; many languages use the balance. And we use them in different contexts and different ways.
+$~~$ You speak about the arbitrariness in using the ASCII keyboard. I heard one feature being described as this: “When Arthur ran out of
+
+$~~$ punctuation, he used a leading underscore to denote system primitives.” When I read that I thought to myself, “That’s a little ridiculous,” but then I thought of all the goofy punctuation characters we have in other languages: C uses nearly all of them; many languages use the balance. And we use them in different contexts and different ways.
 
 \- **AW**
 
