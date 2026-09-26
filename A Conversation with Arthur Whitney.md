@@ -618,4 +618,6 @@ $~~$ Obviously, right now there’s no random access to disk, except for the res
 
 $~~$ trillion rows. So when they want to say, “Give me all the IBM activity for a certain day,” we teach them, by all means, since it’s column-oriented
 
-$~~$ take as few columns as you need for whatever it is you need to do. You might need four columns: time, price, size, and something else. You’ve got to do four seeks, because we’ve got all these indexes set up so that’s all in memory. If you want all the IBM activity for a certain day, that’s going to be four seeks and then—boom!—you’ll read a few megabytes out of each of those columns. Of course, if you go back to IBM on that day, it will probably be sitting in your file cache.
+$~~$ take as few columns as you need for whatever it is you need to do. You might need four columns: time, price, size, and something else. You’ve
+
+$~~$ got to do four seeks, because we’ve got all these indexes set up so that’s all in memory. If you want all the IBM activity for a certain day, that’s going to be four seeks and then—boom!—you’ll read a few megabytes out of each of those columns. Of course, if you go back to IBM on that day, it will probably be sitting in your file cache.
