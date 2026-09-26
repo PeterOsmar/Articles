@@ -26,7 +26,9 @@ $~~~~~~~~~~~~~~~~$ languages may mystify those used to wordier languages such as
 
 $~~~~~~~~~~~~~~~~$ engineers on Wall Street.
 
-**Background**: Whitney began his Wall Street career in the 1980s, building trading systems at Morgan Stanley using his own version of APL (the language on which all of his later languages are based). Eventually he started his own company, Kx Systems, which today provides realtime and historical data-analysis software to many Wall Street investment banks. The company’s signature product, KDB+, is a column-oriented database based on the K language.
+**Background**: Whitney began his Wall Street career in the 1980s, building trading systems at Morgan Stanley using his own version of APL (the
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~$ language on which all of his later languages are based). Eventually he started his own company, Kx Systems, which today provides realtime and historical data-analysis software to many Wall Street investment banks. The company’s signature product, KDB+, is a column-oriented database based on the K language.
 
 **Introduction**: Eager to learn what’s behind Whitney’s unique languages (and curious to see if his reputation for concision carries over into real
 
