@@ -140,7 +140,9 @@ $~~$ My motivation was always to create a general-purpose programming language t
 
 \- **AW**
 
-$~~$ At Stanford the language was determined by the professor, and he wanted to have an inference engine, so the motivation there was artificial intelligence, but I wasn’t much interested in that.
+$~~$ At Stanford the language was determined by the professor, and he wanted to have an inference engine, so the motivation there was artificial
+
+$~~$ intelligence, but I wasn’t much interested in that.
 
 \- **AW**
 
