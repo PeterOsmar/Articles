@@ -217,3 +217,11 @@ $~~$ Why did you give up on them? And how did you feel about giving up on the ch
 $~~$ Well, it felt great because it was easier to send e-mails. They’re beautiful characters, but I had to strip the language down. K today has no
 
 $~~$ reserved words; it just uses the ASCII keyboard. It’s completely arbitrary, but it makes me keep the language small.
+
+\- **BC**
+
+$~~$ You speak about the arbitrariness in using the ASCII keyboard. I heard one feature being described as this: “When Arthur ran out of punctuation, he used a leading underscore to denote system primitives.” When I read that I thought to myself, “That’s a little ridiculous,” but then I thought of all the goofy punctuation characters we have in other languages: C uses nearly all of them; many languages use the balance. And we use them in different contexts and different ways.
+
+\- **AW**
+
+$~~$ Certainly it’s unfamiliar, and people say, “Oh, it looks like line noise.” But even kids can learn this quickly.
