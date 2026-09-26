@@ -554,7 +554,9 @@ $~~$ type, so of course you would store it by column.
 
 \- **BC**
 
-$~~$ Obviously that’s the right choice when you’re dealing with that kind of a data hose. If you were to build a transactional system on K, would you still want it to be column-oriented?
+$~~$ Obviously that’s the right choice when you’re dealing with that kind of a data hose. If you were to build a transactional system on K, would
+
+$~~$ you still want it to be column-oriented?
 
 \- **AW**
 
