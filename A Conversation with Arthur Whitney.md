@@ -436,4 +436,6 @@ $~~$ How important is the readability to the uninitiated?
 
 \- **AW**
 
-$~~$ From a sales point of view, I think it has helped a lot. For someone who programs a few hours a week, I don’t think it would make any difference once they learned K or Q.
+$~~$ From a sales point of view, I think it has helped a lot. For someone who programs a few hours a week, I don’t think it would make any
+
+$~~$ difference once they learned K or Q.
