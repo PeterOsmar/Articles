@@ -352,7 +352,9 @@ $~~$ interpreted, so it’s a lot easier. If I’m surprised at the value of som
 
 \- **BC**
 
-$~~$ That works well when you have deterministic inputs. What if the nature of the problem is just less reproducible—for example, if you were in an event-driven system where you had a confluence of events that led to a problem?
+$~~$ That works well when you have deterministic inputs. What if the nature of the problem is just less reproducible—for example, if you were in
+
+$~~$ an event-driven system where you had a confluence of events that led to a problem?
 
 \- **AW**
 
