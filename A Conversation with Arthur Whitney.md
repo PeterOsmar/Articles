@@ -268,4 +268,6 @@ $~~$ young age actually influenced your thinking at a more nascent level?
 
 \- **AW**
 
-$~~$ I think so, and I think that if kids got it even younger, they would have a bigger advantage. I’ve noticed over the years that I miss things because I didn’t start young enough.
+$~~$ I think so, and I think that if kids got it even younger, they would have a bigger advantage. I’ve noticed over the years that I miss things
+
+$~~$ because I didn’t start young enough.
