@@ -575,3 +575,11 @@ $~~$ So they load the whole thing into memory and then operate on it?
 $~~$ All day long all the hot stuff is in memory, and then during the day it takes about two minutes to write the whole thing down to disk and then
 
 $~~$ flip to a new day and start from scratch.
+
+\- **BC**
+
+$~~$ In that case, is the data coming from a feed or from disk?
+
+\- **AW**
+
+$~~$ Multiple feeds, so the realtime systems and the historical systems are all running 24/7. It’s just that there’s always a quiet time.
