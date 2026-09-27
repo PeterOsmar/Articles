@@ -392,7 +392,7 @@ $~~$ I think it’s fair to say that you’ve written a lot of flawless code.
 
 \- _**Arthur Whitney**_
 
-$~~$ Yes. I went millions and millions of hours with no problems—probably tens of millions of hours with no problems.
+$~~$ Yes. I went millions and millions of hours with no problems — probably tens of millions of hours with no problems.
 
 \- _**Bryan Cantrill**_
 
