@@ -724,7 +724,9 @@ $~~$ I think we just won’t be able to do those kinds of algorithms.
 
 \- _**Bryan Cantrill**_
 
-$~~$ You have this 4-year itch to write a new programming language, so you’re coming due. Are the constraints on the problem any different? What’s the new language going to look like?
+$~~$ You have this 4-year itch to write a new programming language, so you’re coming due. Are the constraints on the problem any different?
+
+$~~$ What’s the new language going to look like?
 
 \- _**Arthur Whitney**_
 
