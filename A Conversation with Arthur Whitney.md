@@ -160,7 +160,7 @@ $~~$ database and the realtime trading — so our entire department was using my
 
 \- _**Bryan Cantrill**_
 
-$~~$ You had used APL, and then you explored these other languages—Prolog variants and so on—but when you got to Morgan Stanley you came
+$~~$ You had used APL, and then you explored these other languages — Prolog variants and so on — but when you got to Morgan Stanley you came
 
 $~~$ back to APL. What brought you back?
 
