@@ -426,11 +426,7 @@ $~~$ look more readable than a K program?
 
 \- _**Arthur Whitney**_
 
-$~~$ Absolutely, because a lot of these symbols are familiar to people from other languages—plus, minus, times, greater than, less than. If they’re
-
-$~~$ looking at a K program that’s using all 20 of them, they will know a half or a third of them, whereas if they’re looking at a Q program they will
-
-$~~$ know about two-thirds of them.
+$~~$ Absolutely, because a lot of these symbols are familiar to people from other languages—plus, minus, times, greater than, less than. If they’re looking at a K program that’s using all 20 of them, they will know 1 / 2 or 1 / 3 of them, whereas if they’re looking at a Q program they will know about 2 / 3 of them.
 
 \- _**Bryan Cantrill**_
 
