@@ -353,8 +353,8 @@ $~~$ In C I never learned to use the debugger so I used to never make mistakes, 
 $~~$ interpreted, so it’s a lot easier. If I’m surprised at the value of some local at some point, I can put in a print, and that’s really all I do.
 
 \- _**Bryan Cantrill**_
-
-$~~$ That works well when you have deterministic inputs. What if the nature of the problem is just less reproducible—for example, if you were in
+ 
+$~~$ That works well when you have deterministic inputs. What if the nature of the problem is just less reproducible — for example, if you were in
 
 $~~$ an event-driven system where you had a confluence of events that led to a problem?
 
