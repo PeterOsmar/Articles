@@ -420,7 +420,7 @@ $~~$ infix are the symbols and prefix are the words.
 
 \- _**Bryan Cantrill**_
 
-$~~$ This gives it what you call the wordiness—I think what others might call readability. For those who are not in that world, will a Q program look
+$~~$ This gives it what you call the wordiness — I think what others might call readability. For those who are not in that world, will a Q program look
 
 $~~$ more readable than a K program?
 
