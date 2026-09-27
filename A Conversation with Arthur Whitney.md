@@ -448,11 +448,7 @@ $~~$ There are other changes, as well. For example, Q seems to be much more clos
 
 \- _**Arthur Whitney**_
 
-$~~$ Right. It’s a little confusing because every three or four years I do an entirely new implementation of K. There was a 1993 K and then there was
-
-$~~$ a year 2000 K. It’s the 2000 K that’s underneath Q, so that implementation of K and Q are exactly the same, except that Q has a library of 50
-
-$~~$ additional operations, which are table-related, written in K.
+$~~$ Right. It’s a little confusing because every 3 or 4 years I do an entirely new implementation of K. There was a 1993 K and then there was a year 2000 K. It’s the 2000 K that’s underneath Q, so that implementation of K and Q are exactly the same, except that Q has a library of 50 additional operations, which are table-related, written in K.
 
 \- _**Bryan Cantrill**_
 
