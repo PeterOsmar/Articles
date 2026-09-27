@@ -656,7 +656,7 @@ $~~$ Yes, that’s probably a safe bet because the performance would be terrible
 
 \- _**Arthur Whitney**_
 
-$~~$ But it’s funny—I think all databases are like this. We’re basically keeping every transaction, so that’s all sequential. What happens at the end of
+$~~$ But it’s funny — I think all databases are like this. We’re basically keeping every transaction, so that’s all sequential. What happens at the end of
 
 $~~$ the day, because of the way people query it, is that we actually sort the entire day by instrument and then write it out sequentially to disk.
 
@@ -698,7 +698,7 @@ $~~$ What about making K or Q implicitly parallel, where you’re parallelizing 
 
 \- _**Arthur Whitney**_
 
-$~~$ Maybe. I’ve done parallel programming since ’75, and K is a parallel language. How ironic—this must be the most parallel language there is.
+$~~$ Maybe. I’ve done parallel programming since ’75, and K is a parallel language. How ironic — this must be the most parallel language there is.
 
 $~~$ The most prominent operator is each, which is parallel. There are no control structures. The primitives themselves are parallel.
 
