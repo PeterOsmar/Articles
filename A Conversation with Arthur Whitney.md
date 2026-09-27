@@ -360,9 +360,9 @@ $~~$ an event-driven system where you had a confluence of events that led to a p
 
 \- _**Arthur Whitney**_
 
-$~~$ It has been 20 years now that I’ve had Wall Street customers—they’re doing 2 billion transactions a day and they have trillion-row databases
+$~~$ It has been 20 years now that I’ve had Wall Street customers — they’re doing 2 billion transactions a day and they have trillion-row databases
 
-$~~$ —and in those 20 years, there was one time where we couldn’t reproduce the bug. That was nasty. I knew the kinds of operations that they
+$~~$ — and in those 20 years, there was one time where we couldn’t reproduce the bug. That was nasty. I knew the kinds of operations that they
 
 $~~$ were doing and I finally found it by just reading my code.
 
