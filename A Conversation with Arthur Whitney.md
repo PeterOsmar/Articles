@@ -764,7 +764,7 @@ $~~$ What does it feel like to part with all that code that’s so lovingly crea
 
 \- _**Arthur Whitney**_
 
-$~~$ I love starting from scratch—and it’s stupid because doing the parser, tokenizer, and printer takes me months.
+$~~$ I love starting from scratch — and it’s stupid because doing the parser, tokenizer, and printer takes me months.
 
 \- _**Bryan Cantrill**_
 
