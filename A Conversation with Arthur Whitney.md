@@ -118,7 +118,7 @@ $~~$ What kinds of problems were people using the APL time-sharing service for?
 
 $~~$ It was mostly general-purpose business computing, such as accounting systems. I did a 2-billion-row database, so we were doing very big
 
-$~~$ databases and data analysis—what today, 20 years later, they call OLAP (online analytical processing).
+$~~$ databases and data analysis — what today, 20 years later, they call OLAP (online analytical processing).
 
 \- _**Arthur Whitney**_
 
