@@ -50,9 +50,7 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~$ essence of elegance.
 
 \- _**Bryan Cantrill**_
 
-$~~$ You are a bit of a rarity in software engineering in that you have been writing software on a daily basis for decades. Your 1st introduction to
-
-$~~$ computing was APL with the master, Ken Iverson. What was that like?
+$~~$ You are a bit of a rarity in software engineering in that you have been writing software on a daily basis for decades. Your 1st introduction to computing was APL with the master, Ken Iverson. What was that like?
 
 \- _**Arthur Whitney**_
 
