@@ -62,11 +62,11 @@ $~~$ Alberta, but we were driving around the continent and went to visit him. He
 
 $~~$ Kisco. This was in the ’60s, and already it was interactive, and it was very quick to write programs and get results.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ You must have been the only 11-year-old on the planet getting that kind of demonstration of programming in 1969.
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ Of course, I had no idea about that, and I didn’t really pay much attention. He showed me some stuff, and I thought it was cool. In ’74 when I
 
@@ -74,21 +74,21 @@ $~~$ went to a university and took a computer class, they were using punch cards
 
 $~~$ seen interactive programming.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ Did you start working on APL at Waterloo?
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ No, at Waterloo I just did some APL for a week. I was a math major and I wasn’t interested in computers because I just wanted to do pure
 
 $~~$ math. So I really missed a big opportunity.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ Well, I’m not sure if you missed it or if you just found the opportunity a different way.
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ It took me a long time. For the next 10 years I did a little bit of APL in the summers as a consultant, but it wasn’t until about 1980 when I was
 
@@ -96,31 +96,31 @@ $~~$ working with Ken at a Canadian company called I.P. Sharp that I really bega
 
 $~~$ was working at I.P. Sharp in Toronto.
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ I.P. Sharp was an amazing company. It had its own worldwide network that had nothing to do with DARPA (Defense Advanced Research
 
 $~~$ Projects Agency). We were sending e-mails and instant messages to Australia and Singapore. The whole company was APL.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ They were selling APL time sharing, right?
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ Yes, and it was easy because the one computer in Toronto was running the entire world.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ What kinds of problems were people using the APL time-sharing service for?
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ It was mostly general-purpose business computing, such as accounting systems. I did a 2-billion-row database, so we were doing very big
 
 $~~$ databases and data analysis—what today, 20 years later, they call OLAP (online analytical processing).
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ I left I.P. Sharp sometime around 1980. Then I went to graduate school at the University of Toronto where I did pure mathematics, but mostly I
 
@@ -130,23 +130,23 @@ $~~$ Prolog. In 1985 I got a job at Stanford, where I implemented a Prolog infer
 
 $~~$ intelligence company called Teknowledge.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ Were you developing these languages because you needed a certain expressive power in the language to solve a particular problem at hand?
 
 $~~$ What were the motivations for these languages?
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ My motivation was always to create a general-purpose programming language that would solve all problems and be interpreted, but fast.
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ At Stanford the language was determined by the professor, and he wanted to have an inference engine, so the motivation there was artificial
 
 $~~$ intelligence, but I wasn’t much interested in that.
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ My big break was in 1988 when I joined Morgan Stanley. There the motivation was a terabyte of TIC (Treasury International Capital) data, and
 
@@ -158,19 +158,19 @@ $~~$ electronically. The data set was a terabyte, but we compressed it down. It 
 
 $~~$ database and the realtime trading—so our entire department was using my language.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ You had used APL, and then you explored these other languages—Prolog variants and so on—but when you got to Morgan Stanley you came
 
 $~~$ back to APL. What brought you back?
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ I much preferred implementing and coding in LISP, but once I was dealing with big data sets and then having to do fairly simple calculations,
 
 $~~$ APL just seemed to have the better vocabulary.
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ It had to come up one level. Common LISP even then had about 2,000 primitives. I didn’t like that. What I liked was the original LISP, which
 
@@ -180,7 +180,7 @@ $~~$ with about 50 operations. It’s about the same size as C. But the thing ab
 
 $~~$ 50 operations are it. Everybody builds from there, and the resulting programs are extremely short.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ There the problem did serve as a motivator. You had this massive amount of data, and you needed a language that could deal with that large
 
@@ -188,39 +188,39 @@ $~~$ amount of data in a first-class fashion. Did other people around you see th
 
 $~~$ APL was beginning to wane a bit?
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ APL peaked in the ’70s, but in the finance industry APL was very strong, so there was no difficulty in doing my own APL version.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ How did your own APL differ from the original? Did you change the primitives that were being exported?
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ The primitives were a little different; the grammar was pretty much the same. The syntax was the same. The vocabulary was very similar, but
 
 $~~$ not enough to be anything close to portable.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ I’m sure that practitioners who know APL only by reputation are going to wonder if it used the same wonky characters as the original APL.
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ Yes, at Morgan Stanley I did use the APL characters, but on my next iteration, K, which was in ’92, I gave up on those characters.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ Why did you give up on them? And how did you feel about giving up on the characters?
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ Well, it felt great because it was easier to send e-mails. They’re beautiful characters, but I had to strip the language down. K today has no
 
 $~~$ reserved words; it just uses the ASCII keyboard. It’s completely arbitrary, but it makes me keep the language small.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ You speak about the arbitrariness in using the ASCII keyboard. I heard one feature being described as this: “When Arthur ran out of
 
@@ -230,27 +230,27 @@ $~~$ then I thought of all the goofy punctuation characters we have in other lan
 
 $~~$ And we use them in different contexts and different ways.
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ Certainly it’s unfamiliar, and people say, “Oh, it looks like line noise.” But even kids can learn this quickly.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ Obviously, a point of pride for K is the ability to phrase things concisely. Is there any length that is too short, where you’ve actually squeezed 
 
 $~~$ too much information out in terms of its readability?
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ Yes, and I expect I cross that boundary a lot. But if every line has up to seven operations, then I think that’s manageable. In fact, we can
 
 $~~$ remember seven things.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ Right. People are able to retain a seven-digit phone number, but it drops off quickly at eight, nine, ten digits.
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ If you’re Cantonese, then it’s ten. I have a very good friend, Roger Hui, who implements J. He was born in Hong Kong but grew up in
 
@@ -258,7 +258,7 @@ $~~$ Edmonton as I did. One day I asked him, “Roger, do you do math in English
 
 $~~$ because it’s faster and it’s completely regular.”
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ This raises an interesting question. When I heard about your early exposure to APL, a part of me wondered if this was like growing up with
 
@@ -268,19 +268,19 @@ $~~$ differences because we use tone differently in nontonal languages. Do you t
 
 $~~$ young age actually influenced your thinking at a more nascent level?
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ I think so, and I think that if kids got it even younger, they would have a bigger advantage. I’ve noticed over the years that I miss things
 
 $~~$ because I didn’t start young enough.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ To ask a slightly broader question, what is the connection between computer language and thought? To what degree does our choice of how
 
 $~~$ we express software change the way we think about the problem?
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ I think it does a lot. That was the point of Ken Iverson’s Turing Award paper, “Notation as a Tool of Thought.” I did pure mathematics in
 
@@ -294,7 +294,7 @@ $~~$ show was that for a connected graph it was an or-dot-and. If it’s a graph
 
 $~~$ K as a notation, he could have covered that in a few seconds or maybe a minute, but because of the notation he couldn’t do it.
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ Another thing I saw that really killed me was in a class on provability, again, a graduate course where I was grading the students’ work. In the
 
@@ -306,17 +306,17 @@ $~~$ programs didn’t work. I don’t think a single one handled the edge condi
 
 $~~$ couldn’t read the proofs.
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ Ken believed that notation should be as high level as possible because, for example, if matrix product is plus-dot-times, there’s no question
 
 $~~$ about that being correct.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ By raising the level of abstraction, you make it easier for things to be correct by inspection.
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ Yes. I have about 1,000 customers around the world in different banks and hedge funds on the equity side (where everything’s going fine). I
 
@@ -324,15 +324,15 @@ $~~$ think the ratio of comment to code for them is actually much greater than o
 
 $~~$ it so the code itself is the comment.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ Do you ever look at your own code and think, “What the hell was I doing here?”
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ No, I guess I don’t.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ Wow! I confess that I tend to write comments for my future self. I know that when I come back to code I’ve written, I often don’t recall
 
@@ -340,25 +340,25 @@ $~~$ instantly what the problem at hand was or how I solved it. Now you’ve got
 
 $~~$ you’re at this higher level of abstraction, maybe it’s easier to see your intent.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ In terms of debugging your code, obviously the power of a terse language such as K or Q is that, presumably, it’s easier to find bugs by
 
 $~~$ inspection. How do you debug them?
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ In C I never learned to use the debugger so I used to never make mistakes, but now I make mistakes and I just put in a print statement. K is
 
 $~~$ interpreted, so it’s a lot easier. If I’m surprised at the value of some local at some point, I can put in a print, and that’s really all I do.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ That works well when you have deterministic inputs. What if the nature of the problem is just less reproducible—for example, if you were in
 
 $~~$ an event-driven system where you had a confluence of events that led to a problem?
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ It has been 20 years now that I’ve had Wall Street customers—they’re doing 2 billion transactions a day and they have trillion-row databases
 
@@ -366,19 +366,19 @@ $~~$ —and in those 20 years, there was one time where we couldn’t reproduce 
 
 $~~$ were doing and I finally found it by just reading my code.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ Was this a bug in K or Q, or was it in the C base implementation?
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ It was a bug in C, in my implementation.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ Is the nature of the problems that K and Q solve such that you just don’t have nonreproducible problems?
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ It seems ridiculous, but it’s only recently that we’ve been doing multithreading, so I guess we might start to see things that are much harder
 
@@ -386,15 +386,15 @@ $~~$ to reproduce. Of course it has been event-driven since 1988. I don’t know
 
 $~~$ find a tiny script that will show the problem.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ I think it’s fair to say that you’ve written a lot of flawless code.
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ Yes. I went millions and millions of hours with no problems—probably tens of millions of hours with no problems.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ That’s a relief to hear because it seems that societally we have come to accept bugs as being endemic in software. When you’re talking about
 
@@ -402,29 +402,29 @@ $~~$ the program being its own proof, I think it gets to the fact that really th
 
 $~~$ it’s flawed: there’s no middle ground for a proof.
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ I want to see if I can get better. Kx is doing fantastic, and it takes just a few hours a month for me, so now I have a clean slate. Every few years
 
 $~~$ I have to do a new language, but the customers don’t really like that.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ Q was the last iteration of that process. What are some of the differences between Q and K?
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ K was all symbolic. It was 20 symbols with a prefix and an infix meaning. With Q, the idea was to have all the monadic cases be words. So now
 
 $~~$ infix are the symbols and prefix are the words.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ This gives it what you call the wordiness—I think what others might call readability. For those who are not in that world, will a Q program look
 
 $~~$ more readable than a K program?
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ Absolutely, because a lot of these symbols are familiar to people from other languages—plus, minus, times, greater than, less than. If they’re
 
@@ -432,21 +432,21 @@ $~~$ looking at a K program that’s using all 20 of them, they will know a half
 
 $~~$ know about two-thirds of them.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ How important is the readability to the uninitiated?
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ From a sales point of view, I think it has helped a lot. For someone who programs a few hours a week, I don’t think it would make any
 
 $~~$ difference once they learned K or Q.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ There are other changes, as well. For example, Q seems to be much more closely tied to the data.
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ Right. It’s a little confusing because every three or four years I do an entirely new implementation of K. There was a 1993 K and then there was
 
@@ -454,93 +454,93 @@ $~~$ a year 2000 K. It’s the 2000 K that’s underneath Q, so that implementat
 
 $~~$ additional operations, which are table-related, written in K.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ If you were to write a program, would you be using the primitives that Q offers or would you write it in K?
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ Most programming I do would be in K, but if it was a lot of relational-table stuff, I would use Q because a lot of those words are already
 
 $~~$ defined.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ When you’re actually in the practice of writing code, do you try many drafts?
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ I’ve found the best thing is just to get something running, and then I’ll redo it probably 10 or 20 times until I can’t get it any smaller.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ Do you redo it for aesthetics?
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ Yes. What I tell my community is if you can find a shorter, more elegant program that isn’t much slower than my code, I want to hear about it.
 
 $~~$ And if it’s shorter and faster, I absolutely want to hear about it.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ Although I don’t know that I’ve got the same discipline, I share your sense of aesthetics about beautiful code. I don’t see that sense of
 
 $~~$ aesthetics being very widespread in software. Shouldn’t it be, though?
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ I think so. The thing about beautiful code is, first of all, it’s beautiful. Second, it’s a lot easier to maintain.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ I think elegant is something that we all know when we see it, but how would you describe elegant code?
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ It’s just really clear. I don’t know what it is. In our community we have a listbox where people post questions and answers about coding, and
 
 $~~$ the elegant code is always the shortest code.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ Is it elegant because it’s the shortest, or is being short a side effect of being elegant?
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ I guess it’s both. All things being equal, less code is always better.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ I was just thinking of the analog to a proof. The shorter proof is almost always the more elegant proof.
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ It’s the same thing. It’s usually easier to understand.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ Software has often been compared with civil engineering, but I’m really sick of people describing software as being like a bridge. What do you
 
 $~~$ think the analog for software is?
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ Poetry.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ Poetry captures the aesthetics, but not the precision.
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ I don’t know, maybe it does.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ Let’s talk about the data sets a little, because you’re dealing with enormous amounts of data, and it’s column-oriented.
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ The typical data is trades, quotes, and orders. These days, there are about a billion quotes a day just in the United States equities. The order
 
@@ -548,19 +548,19 @@ $~~$ events are probably 2 or 3 billion a day, and there are about 50 million tr
 
 $~~$ during the day as well, but they also keep all the history so they can try different strategies.
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ I’ve done column-oriented databases since 1974. In the ’50s they were doing column-oriented databases on file systems. It’s the same data
 
 $~~$ type, so of course you would store it by column.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ Obviously that’s the right choice when you’re dealing with that kind of a data hose. If you were to build a transactional system on K, would
 
 $~~$ you still want it to be column-oriented?
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ Yes, column-oriented databases seem fine. I think the reason they’re fine is because we always set it up so that the hot stuff is in memory. We
 
@@ -568,29 +568,29 @@ $~~$ did that in the ’70s when our memory was 32 K and we did high transaction
 
 $~~$ because these records are only 20 or 30 bytes.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ So they load the whole thing into memory and then operate on it?
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ All day long all the hot stuff is in memory, and then during the day it takes about two minutes to write the whole thing down to disk and then
 
 $~~$ flip to a new day and start from scratch.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ In that case, is the data coming from a feed or from disk?
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ Multiple feeds, so the realtime systems and the historical systems are all running 24/7. It’s just that there’s always a quiet time.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ But the transactions in that system are really appending temporal data to the end of a very large table.
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ Yes, but with all the analytics, they could be doing all kinds of updates to smaller tables. That’s very typical. In fact, we encourage them to do
 
@@ -602,7 +602,7 @@ $~~$ such as book. There are also certain calculations that you want to maintain
 
 $~~$ look-up.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ You were saying that keeping data in DRAM is incredibly important for your performance. Looking down the track, what do you see in terms
 
@@ -610,11 +610,11 @@ $~~$ of the technologies that are coming? In particular, I’ve got to ask you a
 
 $~~$ of its ability to get not DRAM speeds, but much-better-than-disk speeds. Does that pose any sort of change?
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ I think the customers are starting to investigate. It sounds great. It should provide more opportunities for other kinds of mid-range stuff.
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ Obviously, right now there’s no random access to disk, except for the research people. The average customer’s database is 30 terabytes, a
 
@@ -628,7 +628,7 @@ $~~$ going to be four seeks and then—boom!—you’ll read a few megabytes out
 
 $~~$ that day, it will probably be sitting in your file cache.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ That’s assuming, too, that when I’m accessing a file sequentially, it corresponds to sequential accesses on disk, which is not necessarily the
 
@@ -638,23 +638,23 @@ $~~$ temporally sequential manner, it would not necessarily be sequential on dis
 
 $~~$ the data tend to be written temporally sequentially as well?
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ It’s always written temporally sequentially.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ So that doesn’t become an issue?
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ I don’t think so. I probably would have heard about it.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ Yes, that’s probably a safe bet because the performance would be terrible.
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ But it’s funny—I think all databases are like this. We’re basically keeping every transaction, so that’s all sequential. What happens at the end of
 
@@ -664,49 +664,49 @@ $~~$ That operation happens in memory, and then it goes to disk, so it’s actua
 
 $~~$ sorted by time.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ That’s a large sort. How long does it take?
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ You could be sorting a billion rows. That takes a couple of minutes.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ The single CPU pipes are approaching their limits. In terms of that sort taking a couple of minutes, that’s 100 percent compute time. Do you
 
 $~~$ use single or multiple cores when you do it?
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ Single core. The data volumes are getting much bigger, and, of course, the core speed is not improving, so our customers have to split the
 
 $~~$ symbol groups.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ Then you’ve got to segment your data flow somehow to reflect the fact that single-core performance is not improving.
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ Yes, and we’re right at that limit now, because with a single core we can do about a million updates a second.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ What about making K or Q implicitly parallel, where you’re parallelizing under the hood? Is that a possibility?
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ Maybe. I’ve done parallel programming since ’75, and K is a parallel language. How ironic—this must be the most parallel language there is.
 
 $~~$ The most prominent operator is each, which is parallel. There are no control structures. The primitives themselves are parallel.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ Is that something you’re thinking about doing? Will that parallel each actually consume multiple cores?
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ Yes, but that doesn’t solve the sorting problem, and it really doesn’t solve the realtime problem, because in realtime if I get an IBM quote, it’s
 
@@ -714,21 +714,21 @@ $~~$ one record. I might want to check it against everything else. Certainly, if
 
 $~~$ then that’s very easy to parallelize; but if your strategy involves all of the symbols all the time, that would be very difficult to run in parallel.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ What’s the solution?
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ I think we just won’t be able to do those kinds of algorithms.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ You have this four-year itch to write a new programming language, so you’re coming due. Are the constraints on the problem any different?
 
 $~~$ What’s the new language going to look like?
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ It will probably be 95 percent the same. It’s the same semantics: noun, verb, adverb—same data types, same functions. But I like to try
 
@@ -740,53 +740,53 @@ $~~$ immediately so you get good reuse. Under the covers, I play with different 
 
 $~~$ reference count is one, well, then reuse the vector. I also always try to make the code smaller.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ Are you actually redoing the implementation, or are there going to be semantic differences as well?
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ The implementation is 100 percent new. I write everything from scratch, so the C code is entirely different but the semantics are about 95
 
 $~~$ percent the same.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ You start over in terms of your C code? You take all that and throw it out?
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ Yes, completely.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ What does it feel like to part with all that code that’s so lovingly created?
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ I love starting from scratch—and it’s stupid because doing the parser, tokenizer, and printer takes me months.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ Do you find that you can come up with a better solution?
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ I think they’re getting a little bit better, but I think I’m converging.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ Is that advice you would give to practitioners: to throw out more?
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ Yes, but in business it’s hard to do that.
 
-\- **BC**
+\- _**Bryan Cantrill**_
 
 $~~$ Especially when it’s working!
 
-\- **AW**
+\- _**Arthur Whitney**_
 
 $~~$ But I love throwing it all out.
 
