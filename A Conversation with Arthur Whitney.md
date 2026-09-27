@@ -248,7 +248,7 @@ $~~$ 7 things.
 
 \- _**Bryan Cantrill**_
 
-$~~$ Right. People are able to retain a seven-digit phone number, but it drops off quickly at eight, nine, ten digits.
+$~~$ Right. People are able to retain a 7-digit phone number, but it drops off quickly at 8, 9, 10 digits.
 
 \- _**Arthur Whitney**_
 
