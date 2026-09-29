@@ -61,7 +61,9 @@ _**Bryan Cantrill**_ &nbsp; You must have been the only 11-year-old on the plane
 
 _**Arthur Whitney**_ &nbsp; Of course, I had no idea about that, and I didn’t really pay much attention. He showed me some stuff, and I thought it was
 
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; cool. In ’74 when I went to a university and took a computer class, they were using punch cards, which made no sense because 5 years earlier I had already seen interactive programming.
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; cool. In ’74 when I went to a university and took a computer class, they were using punch cards, which made no sense
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; because 5 years earlier I had already seen interactive programming.
 
 \- _**Bryan Cantrill**_
 
