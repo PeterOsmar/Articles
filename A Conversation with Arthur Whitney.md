@@ -11,11 +11,13 @@
 
 **Date**: 20 April 2009
 
-**Title**: A Conversation with Arthur Whitney:
+**Titles**
 
-**Subtitle**: Can code ever be too terse? The designer of the K and Q languages discusses this question and many more with Queue
+| Title | Subtitle |
+| :-----: | :------: |
+| A Conversation with Arthur Whitney: | Can code ever be too terse? The designer of the K and Q languages discusses this question and many more with Queue
 
-$~~~~~~~~~~~~~~~~~$ editorial board member Bryan Cantrill.
+$~~~~~~~~~~~~~~~~~$ editorial board member Bryan Cantrill. |
 
 **Preface**: When it comes to programming languages, Arthur Whitney is a man of few words. The languages he has designed, such as A, K, and
 
