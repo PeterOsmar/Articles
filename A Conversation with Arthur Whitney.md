@@ -7,7 +7,7 @@
 | Member names | Identities |
 | :------------: | :----------: |
 | Arthur Whitney | The designer of the K and Q languages |
-| Bryan Cantrill | ACM Queue editoriBryan Cantrillal board member |
+| Bryan Cantrill | ACM Queue editorial board member |
 
 **Date**: 20 April 2009
 
