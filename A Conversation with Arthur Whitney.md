@@ -59,13 +59,7 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; programs and get results.
 
 _**Bryan Cantrill**_ &nbsp; You must have been the only 11-year-old on the planet getting that kind of demonstration of programming in 1969.
 
-\- _**Arthur Whitney**_
-
-$~~$ Of course, I had no idea about that, and I didn’t really pay much attention. He showed me some stuff, and I thought it was cool. In ’74 when I
-
-$~~$ went to a university and took a computer class, they were using punch cards, which made no sense because 5 years earlier I had already seen
-
-$~~$ interactive programming.
+_**Arthur Whitney**_ &nbsp; Of course, I had no idea about that, and I didn’t really pay much attention. He showed me some stuff, and I thought it was cool. In ’74 when I went to a university and took a computer class, they were using punch cards, which made no sense because 5 years earlier I had already seen interactive programming.
 
 \- _**Bryan Cantrill**_
 
