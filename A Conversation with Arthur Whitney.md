@@ -57,9 +57,7 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; terminal in his house in Mount Kisco. 
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; programs and get results.
 
-\- _**Bryan Cantrill**_
-
-$~~$ You must have been the only 11-year-old on the planet getting that kind of demonstration of programming in 1969.
+_**Bryan Cantrill**_ &nbsp; You must have been the only 11-year-old on the planet getting that kind of demonstration of programming in 1969.
 
 \- _**Arthur Whitney**_
 
