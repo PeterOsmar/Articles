@@ -4,13 +4,10 @@
 
 **Interview members**
 
-\- _**Arthur Whitney**_
-
-$~~$ Identity: The designer of the K and Q languages
-
-\- _**Bryan Cantrill**_
-
-$~~$ Identity: ACM Queue editorial board member
+| Interview members | Identities |
+| ----------------- | ---------- |
+| Arthur Whitney | The designer of the K and Q languages |
+| Bryan Cantrill | ACM Queue editoriBryan Cantrillal board member |
 
 **Date**: 20 April 2009
 
