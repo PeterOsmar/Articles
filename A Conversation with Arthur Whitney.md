@@ -51,7 +51,7 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; introduction to computing was APL with th
 
 _**Arthur Whitney**_ &nbsp; In 1969, I was 11, and Ken Iverson was at IBM Research in Yorktown. He had been a friend of my dad’s at Harvard in the ’40s.
 
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; We lived in Alberta, but we were driving around the continent and went to visit him. He showed me programming on a terminal in his house in Mount Kisco. This was in the ’60s, and already it was interactive, and it was very quick to write programs and get results.
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; We lived in Alberta, but we were driving around the continent and went to visit him. He showed me programming on a terminal in his house in Mount Kisco. This was in the ’60s, and already it was interactive, and it was very quick to write programs and get results.
 
 \- _**Bryan Cantrill**_
 
