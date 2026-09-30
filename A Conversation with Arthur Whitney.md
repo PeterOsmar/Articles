@@ -341,15 +341,9 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; there was a year 2000 K. It’s the 20
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; that Q has a library of 50 additional operations, which are table-related, written in K.
 
-\- _**Bryan Cantrill**_
+_**Bryan Cantrill**_ &nbsp; If you were to write a program, would you be using the primitives that Q offers or would you write it in K?
 
-$~~$ If you were to write a program, would you be using the primitives that Q offers or would you write it in K?
-
-\- _**Arthur Whitney**_
-
-$~~$ Most programming I do would be in K, but if it was a lot of relational-table stuff, I would use Q because a lot of those words are already
-
-$~~$ defined.
+_**Arthur Whitney**_ &nbsp; Most programming I do would be in K, but if it was a lot of relational-table stuff, I would use Q because a lot of those words are already defined.
 
 \- _**Bryan Cantrill**_
 
