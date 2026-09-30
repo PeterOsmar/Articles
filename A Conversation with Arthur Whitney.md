@@ -311,9 +311,9 @@ _**Arthur Whitney**_ &nbsp; I want to see if I can get better. Kx is doing fanta
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; Every few years I have to do a new language, but the customers don’t really like that.
 
-_**Bryan Cantrill**_ Q was the last iteration of that process. What are some of the differences between Q and K?
+_**Bryan Cantrill**_ &nbsp; Q was the last iteration of that process. What are some of the differences between Q and K?
 
-_**Arthur Whitney**_ K was all symbolic. It was 20 symbols with a prefix and an infix meaning. With Q, the idea was to have all the monadic cases be words. So now infix are the symbols and prefix are the words.
+_**Arthur Whitney**_ &nbsp; K was all symbolic. It was 20 symbols with a prefix and an infix meaning. With Q, the idea was to have all the monadic cases be words. So now infix are the symbols and prefix are the words.
 
 \- _**Bryan Cantrill**_
 
