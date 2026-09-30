@@ -85,13 +85,9 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; Advanced Research Projects Agency). We
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; company was APL.
 
-\- _**Bryan Cantrill**_
+_**Bryan Cantrill**_ &nbsp; They were selling APL time sharing, right?
 
-$~~$ They were selling APL time sharing, right?
-
-\- _**Arthur Whitney**_
-
-$~~$ Yes, and it was easy because the one computer in Toronto was running the entire world.
+_**Arthur Whitney**_ &nbsp; Yes, and it was easy because the one computer in Toronto was running the entire world.
 
 \- _**Bryan Cantrill**_
 
