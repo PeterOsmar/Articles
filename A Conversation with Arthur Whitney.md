@@ -307,7 +307,9 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; talking about the program being its own p
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; A proof is either correct, or it’s flawed: there’s no middle ground for a proof.
 
-_**Arthur Whitney**_ &nbsp; I want to see if I can get better. Kx is doing fantastic, and it takes just a few hours a month for me, so now I have a clean slate. Every few years I have to do a new language, but the customers don’t really like that.
+_**Arthur Whitney**_ &nbsp; I want to see if I can get better. Kx is doing fantastic, and it takes just a few hours a month for me, so now I have a clean slate.
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; Every few years I have to do a new language, but the customers don’t really like that.
 
 \- _**Bryan Cantrill**_
 
