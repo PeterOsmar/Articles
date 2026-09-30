@@ -255,13 +255,9 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; everything’s going fine). I think th
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; anything because I’m always trying to make it so the code itself is the comment.
 
-\- _**Bryan Cantrill**_
+_**Bryan Cantrill**_ &nbsp; Do you ever look at your own code and think, “What the hell was I doing here?”
 
-$~~$ Do you ever look at your own code and think, “What the hell was I doing here?”
-
-\- _**Arthur Whitney**_
-
-$~~$ No, I guess I don’t.
+_**Arthur Whitney**_ &nbsp; No, I guess I don’t.
 
 \- _**Bryan Cantrill**_
 
