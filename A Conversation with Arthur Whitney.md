@@ -171,7 +171,9 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; characters.
 
 _**Bryan Cantrill**_ &nbsp; Why did you give up on them? And how did you feel about giving up on the characters?
 
-_**Arthur Whitney**_ &nbsp; Well, it felt great because it was easier to send e-mails. They’re beautiful characters, but I had to strip the language down. K today has no reserved words; it just uses the ASCII keyboard. It’s completely arbitrary, but it makes me keep the language small.
+_**Arthur Whitney**_ &nbsp; Well, it felt great because it was easier to send e-mails. They’re beautiful characters, but I had to strip the language down. K
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; today has no reserved words; it just uses the ASCII keyboard. It’s completely arbitrary, but it makes me keep the language small.
 
 \- _**Bryan Cantrill**_
 
