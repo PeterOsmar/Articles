@@ -107,9 +107,9 @@ _**Bryan Cantrill**_ &nbsp; Were you developing these languages because you need
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; problem at hand? What were the motivations for these languages?
 
-_**Arthur Whitney**_ &nbsp; My motivation was always to create a general-purpose programming language that would solve all problems and be interpreted,
+_**Arthur Whitney**_ &nbsp; My motivation was always to create a general-purpose programming language that would solve all problems and be
 
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; but fast.
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; interpreted, but fast.
 
 _**Arthur Whitney**_ &nbsp; At Stanford the language was determined by the professor, and he wanted to have an inference engine, so the motivation there was artificial intelligence, but I wasn’t much interested in that.
 
