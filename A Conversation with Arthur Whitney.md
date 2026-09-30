@@ -367,7 +367,9 @@ _**Arthur Whitney**_ &nbsp; I think so. The thing about beautiful code is, first
 
 _**Bryan Cantrill**_ &nbsp; I think elegant is something that we all know when we see it, but how would you describe elegant code?
 
-_**Arthur Whitney**_ &nbsp; It’s just really clear. I don’t know what it is. In our community we have a listbox where people post questions and answers about coding, and the elegant code is always the shortest code.
+_**Arthur Whitney**_ &nbsp; It’s just really clear. I don’t know what it is. In our community we have a listbox where people post questions and answers
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; about coding, and the elegant code is always the shortest code.
 
 \- _**Bryan Cantrill**_
 
