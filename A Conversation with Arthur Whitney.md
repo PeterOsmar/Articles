@@ -321,7 +321,9 @@ _**Bryan Cantrill**_ &nbsp; This gives it what you call the wordiness — I thin
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; Q program look more readable than a K program?
 
-_**Arthur Whitney**_ &nbsp; Absolutely, because a lot of these symbols are familiar to people from other languages — plus, minus, times, greater than, less than. If they’re looking at a K program that’s using all 20 of them, they will know 1 / 2 or 1 / 3 of them, whereas if they’re looking at a Q program they will know about 2 / 3 of them.
+_**Arthur Whitney**_ &nbsp; Absolutely, because a lot of these symbols are familiar to people from other languages — plus, minus, times, greater than,
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; less than. If they’re looking at a K program that’s using all 20 of them, they will know 1 / 2 or 1 / 3 of them, whereas if they’re looking at a Q program they will know about 2 / 3 of them.
 
 \- _**Bryan Cantrill**_
 
