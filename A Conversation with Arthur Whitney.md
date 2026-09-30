@@ -191,7 +191,9 @@ _**Bryan Cantrill**_ &nbsp; Obviously, a point of pride for K is the ability to 
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; actually squeezed too much information out in terms of its readability?
 
-_**Arthur Whitney**_ &nbsp; Yes, and I expect I cross that boundary a lot. But if every line has up to 7 operations, then I think that’s manageable. In fact, we can remember 7 things.
+_**Arthur Whitney**_ &nbsp; Yes, and I expect I cross that boundary a lot. But if every line has up to 7 operations, then I think that’s manageable. In fact, we
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; can remember 7 things.
 
 \- _**Bryan Cantrill**_
 
