@@ -407,7 +407,9 @@ _**Bryan Cantrill**_ &nbsp; Obviously that’s the right choice when you’re de
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; on K, would you still want it to be column-oriented?
 
-_**Arthur Whitney**_ &nbsp; Yes, column-oriented databases seem fine. I think the reason they’re fine is because we always set it up so that the hot stuff is in memory. We did that in the ’70s when our memory was 32 K and we did high transaction rates. Now the guys have 128 gig, which is enough for a billion because these records are only 20 or 30 bytes.
+_**Arthur Whitney**_ &nbsp; Yes, column-oriented databases seem fine. I think the reason they’re fine is because we always set it up so that the hot stuff is
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; in memory. We did that in the ’70s when our memory was 32 K and we did high transaction rates. Now the guys have 128 gig, which is enough for a billion because these records are only 20 or 30 bytes.
 
 \- _**Bryan Cantrill**_
 
