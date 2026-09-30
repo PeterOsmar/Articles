@@ -459,7 +459,9 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; columns: time, price, size, and someth
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; all in memory. If you want all the IBM activity for a certain day, that’s going to be 4 seeks and then — boom! — you’ll read a
 
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; few megabytes out of each of those columns. Of course, if you go back to IBM on that day, it will probably be sitting in your file cache.
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; few megabytes out of each of those columns. Of course, if you go back to IBM on that day, it will probably be sitting in your
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; file cache.
 
 \- _**Bryan Cantrill**_
 
