@@ -457,7 +457,9 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; means, since it’s column-oriented ta
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; columns: time, price, size, and something else. You’ve got to do 4 seeks, because we’ve got all these indexes set up so that’s
 
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; all in memory. If you want all the IBM activity for a certain day, that’s going to be 4 seeks and then — boom! — you’ll read a few megabytes out of each of those columns. Of course, if you go back to IBM on that day, it will probably be sitting in your file cache.
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; all in memory. If you want all the IBM activity for a certain day, that’s going to be 4 seeks and then — boom! — you’ll read a
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; few megabytes out of each of those columns. Of course, if you go back to IBM on that day, it will probably be sitting in your file cache.
 
 \- _**Bryan Cantrill**_
 
