@@ -151,7 +151,9 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; with that large amount of data in a first
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; that time I would assume that APL was beginning to wane a bit?
 
-_**Arthur Whitney**_ &nbsp; APL peaked in the ’70s, but in the finance industry APL was very strong, so there was no difficulty in doing my own APL version.
+_**Arthur Whitney**_ &nbsp; APL peaked in the ’70s, but in the finance industry APL was very strong, so there was no difficulty in doing my own APL
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; version.
 
 \- _**Bryan Cantrill**_
 
