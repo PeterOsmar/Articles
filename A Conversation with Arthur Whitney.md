@@ -261,7 +261,9 @@ _**Arthur Whitney**_ &nbsp; No, I guess I don’t.
 
 _**Bryan Cantrill**_ &nbsp; Wow! I confess that I tend to write comments for my future self. I know that when I come back to code I’ve written, I often
 
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; don’t recall instantly what the problem at hand was or how I solved it. Now you’ve got me thinking that maybe I’m just in the wrong language. When you’re at this higher level of abstraction, maybe it’s easier to see your intent.
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; don’t recall instantly what the problem at hand was or how I solved it. Now you’ve got me thinking that maybe I’m just in the
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; wrong language. When you’re at this higher level of abstraction, maybe it’s easier to see your intent.
 
 _**Bryan Cantrill**_ &nbsp; In terms of debugging your code, obviously the power of a terse language such as K or Q is that, presumably, it’s easier to find bugs by inspection. How do you debug them?
 
