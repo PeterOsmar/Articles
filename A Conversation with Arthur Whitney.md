@@ -155,15 +155,9 @@ _**Arthur Whitney**_ &nbsp; APL peaked in the ’70s, but in the finance industr
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; version.
 
-\- _**Bryan Cantrill**_
+_**Bryan Cantrill**_ &nbsp; How did your own APL differ from the original? Did you change the primitives that were being exported?
 
-$~~$ How did your own APL differ from the original? Did you change the primitives that were being exported?
-
-\- _**Arthur Whitney**_
-
-$~~$ The primitives were a little different; the grammar was pretty much the same. The syntax was the same. The vocabulary was very similar, but
-
-$~~$ not enough to be anything close to portable.
+_**Arthur Whitney**_ &nbsp; The primitives were a little different; the grammar was pretty much the same. The syntax was the same. The vocabulary was very similar, but not enough to be anything close to portable.
 
 \- _**Bryan Cantrill**_
 
