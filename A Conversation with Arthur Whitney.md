@@ -317,19 +317,9 @@ _**Arthur Whitney**_ &nbsp; K was all symbolic. It was 20 symbols with a prefix 
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; be words. So now infix are the symbols and prefix are the words.
 
-\- _**Bryan Cantrill**_
+_**Bryan Cantrill**_ &nbsp; This gives it what you call the wordiness — I think what others might call readability. For those who are not in that world, will a Q program look more readable than a K program?
 
-$~~$ This gives it what you call the wordiness — I think what others might call readability. For those who are not in that world, will a Q program
-
-$~~$ look more readable than a K program?
-
-\- _**Arthur Whitney**_
-
-$~~$ Absolutely, because a lot of these symbols are familiar to people from other languages — plus, minus, times, greater than, less than. If they’re
-
-$~~$ looking at a K program that’s using all 20 of them, they will know 1 / 2 or 1 / 3 of them, whereas if they’re looking at a Q program they will
-
-$~~$ know about 2 / 3 of them.
+_**Arthur Whitney**_ &nbsp; Absolutely, because a lot of these symbols are familiar to people from other languages — plus, minus, times, greater than, less than. If they’re looking at a K program that’s using all 20 of them, they will know 1 / 2 or 1 / 3 of them, whereas if they’re looking at a Q program they will know about 2 / 3 of them.
 
 \- _**Bryan Cantrill**_
 
