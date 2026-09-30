@@ -371,13 +371,9 @@ _**Arthur Whitney**_ &nbsp; It’s just really clear. I don’t know what it is.
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; about coding, and the elegant code is always the shortest code.
 
-\- _**Bryan Cantrill**_
+_**Bryan Cantrill**_ &nbsp; Is it elegant because it’s the shortest, or is being short a side effect of being elegant?
 
-$~~$ Is it elegant because it’s the shortest, or is being short a side effect of being elegant?
-
-\- _**Arthur Whitney**_
-
-$~~$ I guess it’s both. All things being equal, less code is always better.
+_**Arthur Whitney**_ &nbsp; I guess it’s both. All things being equal, less code is always better.
 
 \- _**Bryan Cantrill**_
 
