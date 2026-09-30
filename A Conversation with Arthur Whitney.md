@@ -177,7 +177,9 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; today has no reserved words; it just u
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; small.
 
-_**Bryan Cantrill**_ &nbsp; You speak about the arbitrariness in using the ASCII keyboard. I heard one feature being described as this: “When Arthur ran out of punctuation, he used a leading underscore to denote system primitives.” When I read that I thought to myself, “That’s a little ridiculous,” but then I thought of all the goofy punctuation characters we have in other languages: C uses nearly all of them; many languages use the balance. And we use them in different contexts and different ways.
+_**Bryan Cantrill**_ &nbsp; You speak about the arbitrariness in using the ASCII keyboard. I heard one feature being described as this: “When Arthur ran
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; out of punctuation, he used a leading underscore to denote system primitives.” When I read that I thought to myself, “That’s a little ridiculous,” but then I thought of all the goofy punctuation characters we have in other languages: C uses nearly all of them; many languages use the balance. And we use them in different contexts and different ways.
 
 _**Arthur Whitney**_ &nbsp; Certainly it’s unfamiliar, and people say, “Oh, it looks like line noise.” But even kids can learn this quickly.
 
