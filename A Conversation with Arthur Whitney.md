@@ -343,7 +343,9 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; that Q has a library of 50 additional 
 
 _**Bryan Cantrill**_ &nbsp; If you were to write a program, would you be using the primitives that Q offers or would you write it in K?
 
-_**Arthur Whitney**_ &nbsp; Most programming I do would be in K, but if it was a lot of relational-table stuff, I would use Q because a lot of those words are already defined.
+_**Arthur Whitney**_ &nbsp; Most programming I do would be in K, but if it was a lot of relational-table stuff, I would use Q because a lot of those words
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; are already defined.
 
 \- _**Bryan Cantrill**_
 
