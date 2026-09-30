@@ -475,9 +475,7 @@ _**Arthur Whitney**_ &nbsp; It’s always written temporally sequentially.
 
 _**Bryan Cantrill**_ &nbsp; So that doesn’t become an issue?
 
-\- _**Arthur Whitney**_
-
-$~~$ I don’t think so. I probably would have heard about it.
+_**Arthur Whitney**_ &nbsp; I don’t think so. I probably would have heard about it.
 
 \- _**Bryan Cantrill**_
 
