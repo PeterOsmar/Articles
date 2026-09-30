@@ -391,7 +391,9 @@ _**Arthur Whitney**_ &nbsp; I don’t know, maybe it does.
 
 _**Bryan Cantrill**_ &nbsp; Let’s talk about the data sets a little, because you’re dealing with enormous amounts of data, and it’s column-oriented.
 
-_**Arthur Whitney**_ &nbsp; The typical data is trades, quotes, and orders. These days, there are about a billion quotes a day just in the United States equities. The order events are probably 2 or 3 billion a day, and there are about 50 million trades. The customers tend to keep track of all that and execute trades during the day as well, but they also keep all the history so they can try different strategies.
+_**Arthur Whitney**_ &nbsp; The typical data is trades, quotes, and orders. These days, there are about a billion quotes a day just in the United States
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; equities. The order events are probably 2 or 3 billion a day, and there are about 50 million trades. The customers tend to keep track of all that and execute trades during the day as well, but they also keep all the history so they can try different strategies.
 
 \- _**Arthur Whitney**_
 
