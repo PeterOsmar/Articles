@@ -399,7 +399,9 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; track of all that and execute trades d
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; strategies.
 
-_**Arthur Whitney**_ &nbsp; I’ve done column-oriented databases since 1974. In the ’50s they were doing column-oriented databases on file systems. It’s the same data type, so of course you would store it by column.
+_**Arthur Whitney**_ &nbsp; I’ve done column-oriented databases since 1974. In the ’50s they were doing column-oriented databases on file systems. It’s
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; the same data type, so of course you would store it by column.
 
 _**Bryan Cantrill**_ &nbsp; Obviously that’s the right choice when you’re dealing with that kind of a data hose. If you were to build a transactional system on K, would you still want it to be column-oriented?
 
