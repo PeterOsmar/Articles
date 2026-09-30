@@ -275,7 +275,9 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; statement. K is interpreted, so it’s
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; and that’s really all I do.
 
-_**Bryan Cantrill**_ &nbsp; That works well when you have deterministic inputs. What if the nature of the problem is just less reproducible — for example, if you were in an event-driven system where you had a confluence of events that led to a problem?
+_**Bryan Cantrill**_ &nbsp; That works well when you have deterministic inputs. What if the nature of the problem is just less reproducible — for example,
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; if you were in an event-driven system where you had a confluence of events that led to a problem?
 
 _**Arthur Whitney**_ &nbsp; It has been 20 years now that I’ve had Wall Street customers — they’re doing 2 billion transactions a day and they have trillion-row databases — and in those 20 years, there was one time where we couldn’t reproduce the bug. That was nasty. I knew the kinds of operations that they were doing and I finally found it by just reading my code.
 
