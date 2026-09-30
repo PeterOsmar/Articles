@@ -425,21 +425,9 @@ _**Arthur Whitney**_ &nbsp; Multiple feeds, so the realtime systems and the hist
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; time.
 
-\- _**Bryan Cantrill**_
+_**Bryan Cantrill**_ &nbsp; But the transactions in that system are really appending temporal data to the end of a very large table.
 
-$~~$ But the transactions in that system are really appending temporal data to the end of a very large table.
-
-\- _**Arthur Whitney**_
-
-$~~$ Yes, but with all the analytics, they could be doing all kinds of updates to smaller tables. That’s very typical. In fact, we encourage them to do
-
-$~~$ that because all your realtime analytics need to be look-ups. You can’t do any aggregations in realtime, so you have a lot of raw data. You
-
-$~~$ have these billion rows of raw data spread among 3 tables, maybe. You might have 10 or 20 smaller tables that represent a certain state, such
-
-$~~$ as book. There are also certain calculations that you want to maintain so that you can do either constant-time look-up or binary-search look-
-
-$~~$ up.
+_**Arthur Whitney**_ &nbsp; Yes, but with all the analytics, they could be doing all kinds of updates to smaller tables. That’s very typical. In fact, we encourage them to do that because all your realtime analytics need to be look-ups. You can’t do any aggregations in realtime, so you have a lot of raw data. You have these billion rows of raw data spread among 3 tables, maybe. You might have 10 or 20 smaller tables that represent a certain state, such as book. There are also certain calculations that you want to maintain so that you can do either constant-time look-up or binary-search look-up.
 
 \- _**Bryan Cantrill**_
 
