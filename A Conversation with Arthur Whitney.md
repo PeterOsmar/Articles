@@ -445,7 +445,9 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; memory is interesting in terms of its abi
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; sort of change?
 
-_**Arthur Whitney**_ &nbsp; I think the customers are starting to investigate. It sounds great. It should provide more opportunities for other kinds of mid-range stuff.
+_**Arthur Whitney**_ &nbsp; I think the customers are starting to investigate. It sounds great. It should provide more opportunities for other kinds of mid-
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; range stuff.
 
 \- _**Arthur Whitney**_
 
