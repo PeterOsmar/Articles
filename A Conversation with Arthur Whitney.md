@@ -281,7 +281,9 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; if you were in an event-driven system whe
 
 _**Arthur Whitney**_ &nbsp; It has been 20 years now that I’ve had Wall Street customers — they’re doing 2 billion transactions a day and they have
 
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; trillion-row databases — and in those 20 years, there was one time where we couldn’t reproduce the bug. That was nasty. I knew the kinds of operations that they were doing and I finally found it by just reading my code.
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; trillion-row databases — and in those 20 years, there was one time where we couldn’t reproduce the bug. That was nasty. I
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; knew the kinds of operations that they were doing and I finally found it by just reading my code.
 
 \- _**Bryan Cantrill**_
 
