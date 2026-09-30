@@ -415,7 +415,9 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; which is enough for a billion because 
 
 _**Bryan Cantrill**_ &nbsp; So they load the whole thing into memory and then operate on it?
 
-_**Arthur Whitney**_ &nbsp; All day long all the hot stuff is in memory, and then during the day it takes about 2 minutes to write the whole thing down to disk and then flip to a new day and start from scratch.
+_**Arthur Whitney**_ &nbsp; All day long all the hot stuff is in memory, and then during the day it takes about 2 minutes to write the whole thing down to
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; disk and then flip to a new day and start from scratch.
 
 \- _**Bryan Cantrill**_
 
