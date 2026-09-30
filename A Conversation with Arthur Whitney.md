@@ -385,13 +385,9 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; bridge. What do you think the analog for 
 
 _**Arthur Whitney**_ &nbsp; Poetry.
 
-\- _**Bryan Cantrill**_
+_**Bryan Cantrill**_ &nbsp; Poetry captures the aesthetics, but not the precision.
 
-$~~$ Poetry captures the aesthetics, but not the precision.
-
-\- _**Arthur Whitney**_
-
-$~~$ I don’t know, maybe it does.
+_**Arthur Whitney**_ &nbsp; I don’t know, maybe it does.
 
 \- _**Bryan Cantrill**_
 
