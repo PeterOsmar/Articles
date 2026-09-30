@@ -355,7 +355,9 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; smaller.
 
 _**Bryan Cantrill**_ &nbsp; Do you redo it for aesthetics?
 
-_**Arthur Whitney**_ &nbsp; Yes. What I tell my community is if you can find a shorter, more elegant program that isn’t much slower than my code, I want to hear about it. And if it’s shorter and faster, I absolutely want to hear about it.
+_**Arthur Whitney**_ &nbsp; Yes. What I tell my community is if you can find a shorter, more elegant program that isn’t much slower than my code, I want
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; to hear about it. And if it’s shorter and faster, I absolutely want to hear about it.
 
 \- _**Bryan Cantrill**_
 
