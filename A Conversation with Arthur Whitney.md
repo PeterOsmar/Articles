@@ -431,7 +431,9 @@ _**Arthur Whitney**_ &nbsp; Yes, but with all the analytics, they could be doing
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; encourage them to do that because all your realtime analytics need to be look-ups. You can’t do any aggregations in
 
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; realtime, so you have a lot of raw data. You have these billion rows of raw data spread among 3 tables, maybe. You might have 10 or 20 smaller tables that represent a certain state, such as book. There are also certain calculations that you want to maintain so that you can do either constant-time look-up or binary-search look-up.
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; realtime, so you have a lot of raw data. You have these billion rows of raw data spread among 3 tables, maybe. You might
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; have 10 or 20 smaller tables that represent a certain state, such as book. There are also certain calculations that you want to maintain so that you can do either constant-time look-up or binary-search look-up.
 
 \- _**Bryan Cantrill**_
 
