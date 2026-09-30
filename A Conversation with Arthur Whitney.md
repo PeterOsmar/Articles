@@ -421,7 +421,9 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; disk and then flip to a new day and st
 
 _**Bryan Cantrill**_ &nbsp; In that case, is the data coming from a feed or from disk?
 
-_**Arthur Whitney**_ &nbsp; Multiple feeds, so the realtime systems and the historical systems are all running 24/7. It’s just that there’s always a quiet time.
+_**Arthur Whitney**_ &nbsp; Multiple feeds, so the realtime systems and the historical systems are all running 24/7. It’s just that there’s always a quiet
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; time.
 
 \- _**Bryan Cantrill**_
 
