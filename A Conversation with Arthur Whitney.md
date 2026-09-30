@@ -269,7 +269,9 @@ _**Bryan Cantrill**_ &nbsp; In terms of debugging your code, obviously the power
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; bugs by inspection. How do you debug them?
 
-_**Arthur Whitney**_ &nbsp; In C I never learned to use the debugger so I used to never make mistakes, but now I make mistakes and I just put in a print statement. K is interpreted, so it’s a lot easier. If I’m surprised at the value of some local at some point, I can put in a print, and that’s really all I do.
+_**Arthur Whitney**_ &nbsp; In C I never learned to use the debugger so I used to never make mistakes, but now I make mistakes and I just put in a print
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; statement. K is interpreted, so it’s a lot easier. If I’m surprised at the value of some local at some point, I can put in a print, and that’s really all I do.
 
 \- _**Bryan Cantrill**_
  
