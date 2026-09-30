@@ -347,13 +347,9 @@ _**Arthur Whitney**_ &nbsp; Most programming I do would be in K, but if it was a
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; are already defined.
 
-\- _**Bryan Cantrill**_
+_**Bryan Cantrill**_ &nbsp; When you’re actually in the practice of writing code, do you try many drafts?
 
-$~~$ When you’re actually in the practice of writing code, do you try many drafts?
-
-\- _**Arthur Whitney**_
-
-$~~$ I’ve found the best thing is just to get something running, and then I’ll redo it probably 10 or 20 times until I can’t get it any smaller.
+_**Arthur Whitney**_ &nbsp; I’ve found the best thing is just to get something running, and then I’ll redo it probably 10 or 20 times until I can’t get it any smaller.
 
 \- _**Bryan Cantrill**_
 
