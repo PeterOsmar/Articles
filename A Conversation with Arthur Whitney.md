@@ -215,7 +215,9 @@ _**Arthur Whitney**_ &nbsp; I think so, and I think that if kids got it even you
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; miss things because I didn’t start young enough.
 
-_**Bryan Cantrill**_ &nbsp; To ask a slightly broader question, what is the connection between computer language and thought? To what degree does our choice of how we express software change the way we think about the problem?
+_**Bryan Cantrill**_ &nbsp; To ask a slightly broader question, what is the connection between computer language and thought? To what degree does our
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; choice of how we express software change the way we think about the problem?
 
 _**Arthur Whitney**_ &nbsp; I think it does a lot. That was the point of Ken Iverson’s Turing Award paper, “Notation as a Tool of Thought.” I did pure mathematics in school, but later I was a teaching assistant for a graduate course in computer algorithms. I could see that the professor was getting killed by the notation. He was trying to express the idea of different kinds of matrix inner products, saying if you have a directed graph and you’re looking at connections, then you write this triple nested loop in Fortran or Algol. It took him an hour to express it. What he really wanted to show was that for a connected graph it was an or-dot-and. If it’s a graph of pipe capacities, then maybe it’s a plus-dot-min. If he’d had APL or K as a notation, he could have covered that in a few seconds or maybe a minute, but because of the notation he couldn’t do it.
 
