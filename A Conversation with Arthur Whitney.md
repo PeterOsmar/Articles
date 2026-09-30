@@ -127,7 +127,9 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; was pairs trading, and I wrote an APL 
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; department was using my language.
 
-_**Bryan Cantrill**_ &nbsp; You had used APL, and then you explored these other languages — Prolog variants and so on — but when you got to Morgan Stanley you came back to APL. What brought you back?
+_**Bryan Cantrill**_ &nbsp; You had used APL, and then you explored these other languages — Prolog variants and so on — but when you got to Morgan
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; Stanley you came back to APL. What brought you back?
 
 _**Arthur Whitney**_ &nbsp; I much preferred implementing and coding in LISP, but once I was dealing with big data sets and then having to do fairly simple calculations, APL just seemed to have the better vocabulary.
 
