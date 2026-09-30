@@ -237,7 +237,9 @@ _**Arthur Whitney**_ &nbsp; Another thing I saw that really killed me was in a c
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; students’ work. In the ’70s there was a lot of work on trying to prove programs correct. In this course the students had to do
 
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; binary search and prove with these provability techniques that they were actually doing binary search. They handed in these long papers that were just so well argued, but the programs didn’t work. I don’t think a single one handled the edge conditions correctly. I could read the code and see the mistake, but I couldn’t read the proofs.
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; binary search and prove with these provability techniques that they were actually doing binary search. They handed in these
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; long papers that were just so well argued, but the programs didn’t work. I don’t think a single one handled the edge conditions correctly. I could read the code and see the mistake, but I couldn’t read the proofs.
 
 _**Arthur Whitney**_ &nbsp; Ken believed that notation should be as high level as possible because, for example, if matrix product is plus-dot-times, there’s no question about that being correct.
 
