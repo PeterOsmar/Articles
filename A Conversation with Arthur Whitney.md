@@ -251,7 +251,9 @@ _**Bryan Cantrill**_ &nbsp; By raising the level of abstraction, you make it eas
 
 _**Arthur Whitney**_ &nbsp; Yes. I have about 1,000 customers around the world in different banks and hedge funds on the equity side (where
 
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; everything’s going fine). I think the ratio of comment to code for them is actually much greater than 1. I never comment anything because I’m always trying to make it so the code itself is the comment.
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; everything’s going fine). I think the ratio of comment to code for them is actually much greater than 1. I never comment
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; anything because I’m always trying to make it so the code itself is the comment.
 
 \- _**Bryan Cantrill**_
 
