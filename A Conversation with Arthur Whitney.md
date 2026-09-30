@@ -181,15 +181,13 @@ _**Bryan Cantrill**_ &nbsp; You speak about the arbitrariness in using the ASCII
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; out of punctuation, he used a leading underscore to denote system primitives.” When I read that I thought to myself, “That’s a
 
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; little ridiculous,” but then I thought of all the goofy punctuation characters we have in other languages: C uses nearly all of them; many languages use the balance. And we use them in different contexts and different ways.
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; little ridiculous,” but then I thought of all the goofy punctuation characters we have in other languages: C uses nearly all of
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; them; many languages use the balance. And we use them in different contexts and different ways.
 
 _**Arthur Whitney**_ &nbsp; Certainly it’s unfamiliar, and people say, “Oh, it looks like line noise.” But even kids can learn this quickly.
 
-\- _**Bryan Cantrill**_
-
-$~~$ Obviously, a point of pride for K is the ability to phrase things concisely. Is there any length that is too short, where you’ve actually squeezed 
-
-$~~$ too much information out in terms of its readability?
+_**Bryan Cantrill**_ &nbsp; Obviously, a point of pride for K is the ability to phrase things concisely. Is there any length that is too short, where you’ve actually squeezed too much information out in terms of its readability?
 
 \- _**Arthur Whitney**_
 
