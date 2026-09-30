@@ -495,7 +495,9 @@ _**Bryan Cantrill**_ &nbsp; The single CPU pipes are approaching their limits. I
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; time. Do you use single or multiple cores when you do it?
 
-_**Arthur Whitney**_ &nbsp; Single core. The data volumes are getting much bigger, and, of course, the core speed is not improving, so our customers have to split the symbol groups.
+_**Arthur Whitney**_ &nbsp; Single core. The data volumes are getting much bigger, and, of course, the core speed is not improving, so our customers
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; have to split the symbol groups.
 
 \- _**Bryan Cantrill**_
 
