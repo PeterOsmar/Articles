@@ -441,7 +441,9 @@ _**Bryan Cantrill**_ &nbsp; You were saying that keeping data in DRAM is incredi
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; see in terms of the technologies that are coming? In particular, I’ve got to ask you about Flash and whether you think Flash
 
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; memory is interesting in terms of its ability to get not DRAM speeds, but much-better-than-disk speeds. Does that pose any sort of change?
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; memory is interesting in terms of its ability to get not DRAM speeds, but much-better-than-disk speeds. Does that pose any
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; sort of change?
 
 _**Arthur Whitney**_ &nbsp; I think the customers are starting to investigate. It sounds great. It should provide more opportunities for other kinds of mid-range stuff.
 
