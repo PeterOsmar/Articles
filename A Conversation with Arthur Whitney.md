@@ -195,17 +195,9 @@ _**Arthur Whitney**_ &nbsp; Yes, and I expect I cross that boundary a lot. But i
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; can remember 7 things.
 
-\- _**Bryan Cantrill**_
+_**Bryan Cantrill**_ &nbsp; Right. People are able to retain a 7-digit phone number, but it drops off quickly at 8, 9, 10 digits.
 
-$~~$ Right. People are able to retain a 7-digit phone number, but it drops off quickly at 8, 9, 10 digits.
-
-\- _**Arthur Whitney**_
-
-$~~$ If you’re Cantonese, then it’s 10. I have a very good friend, Roger Hui, who implements J. He was born in Hong Kong but grew up in
-
-$~~$ Edmonton as I did. One day I asked him, “Roger, do you do math in English or Cantonese?” He smiled at me and said, “I do it in Cantonese
-
-$~~$ because it’s faster and it’s completely regular.”
+_**Arthur Whitney**_ &nbsp; If you’re Cantonese, then it’s 10. I have a very good friend, Roger Hui, who implements J. He was born in Hong Kong but grew up in Edmonton as I did. One day I asked him, “Roger, do you do math in English or Cantonese?” He smiled at me and said, “I do it in Cantonese because it’s faster and it’s completely regular.”
 
 \- _**Bryan Cantrill**_
 
