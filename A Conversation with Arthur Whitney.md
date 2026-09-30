@@ -395,7 +395,9 @@ _**Arthur Whitney**_ &nbsp; The typical data is trades, quotes, and orders. Thes
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; equities. The order events are probably 2 or 3 billion a day, and there are about 50 million trades. The customers tend to keep
 
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; track of all that and execute trades during the day as well, but they also keep all the history so they can try different strategies.
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; track of all that and execute trades during the day as well, but they also keep all the history so they can try different
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; strategies.
 
 \- _**Arthur Whitney**_
 
