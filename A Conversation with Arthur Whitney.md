@@ -139,7 +139,9 @@ _**Arthur Whitney**_ &nbsp; It had to come up one level. Common LISP even then h
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; original LISP, which had car, cdr, cons, and cond, but that was too little. Common LISP was way too big, but a stripped-down
 
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; version of APL was in the middle with about 50 operations. It’s about the same size as C. But the thing about the languages that I implement is that there are no libraries: those 50 operations are it. Everybody builds from there, and the resulting programs are extremely short.
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; version of APL was in the middle with about 50 operations. It’s about the same size as C. But the thing about the languages
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; that I implement is that there are no libraries: those 50 operations are it. Everybody builds from there, and the resulting programs are extremely short.
 
 \- _**Bryan Cantrill**_
 
