@@ -327,15 +327,9 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; less than. If they’re looking at a K
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; looking at a Q program they will know about 2 / 3 of them.
 
-\- _**Bryan Cantrill**_
+_**Bryan Cantrill**_ &nbsp; How important is the readability to the uninitiated?
 
-$~~$ How important is the readability to the uninitiated?
-
-\- _**Arthur Whitney**_
-
-$~~$ From a sales point of view, I think it has helped a lot. For someone who programs a few hours a week, I don’t think it would make any
-
-$~~$ difference once they learned K or Q.
+_**Arthur Whitney**_ &nbsp; From a sales point of view, I think it has helped a lot. For someone who programs a few hours a week, I don’t think it would make any difference once they learned K or Q.
 
 \- _**Bryan Cantrill**_
 
