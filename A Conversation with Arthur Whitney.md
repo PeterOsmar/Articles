@@ -73,7 +73,9 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; to do pure math. So I really missed a 
 
 _**Bryan Cantrill**_ &nbsp; Well, I’m not sure if you missed it or if you just found the opportunity a different way.
 
-_**Arthur Whitney**_ &nbsp; It took me a long time. For the next 10 years I did a little bit of APL in the summers as a consultant, but it wasn’t until about 1980 when I was working with Ken at a Canadian company called I.P. Sharp that I really began using it regularly. Ken had retired from IBM after 20 years and was working at I.P. Sharp in Toronto.
+_**Arthur Whitney**_ &nbsp; It took me a long time. For the next 10 years I did a little bit of APL in the summers as a consultant, but it wasn’t until about
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; 1980 when I was working with Ken at a Canadian company called I.P. Sharp that I really began using it regularly. Ken had retired from IBM after 20 years and was working at I.P. Sharp in Toronto.
 
 \- _**Arthur Whitney**_
 
