@@ -483,7 +483,9 @@ _**Arthur Whitney**_ &nbsp; But it’s funny — I think all databases are like 
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; happens at the end of the day, because of the way people query it, is that we actually sort the entire day by instrument and
 
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; then write it out sequentially to disk. That operation happens in memory, and then it goes to disk, so it’s actually sorted by security and then time. During the day, however, it’s sorted by time.
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; then write it out sequentially to disk. That operation happens in memory, and then it goes to disk, so it’s actually sorted by
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; security and then time. During the day, however, it’s sorted by time.
 
 \- _**Bryan Cantrill**_
 
