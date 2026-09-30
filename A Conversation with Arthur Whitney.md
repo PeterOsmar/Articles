@@ -379,7 +379,9 @@ _**Bryan Cantrill**_ &nbsp; I was just thinking of the analog to a proof. The sh
 
 _**Arthur Whitney**_ &nbsp; It’s the same thing. It’s usually easier to understand.
 
-_**Bryan Cantrill**_ &nbsp; Software has often been compared with civil engineering, but I’m really sick of people describing software as being like a bridge. What do you think the analog for software is?
+_**Bryan Cantrill**_ &nbsp; Software has often been compared with civil engineering, but I’m really sick of people describing software as being like a
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; bridge. What do you think the analog for software is?
 
 _**Arthur Whitney**_ &nbsp; Poetry.
 
