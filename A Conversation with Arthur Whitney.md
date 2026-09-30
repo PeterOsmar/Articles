@@ -303,7 +303,9 @@ _**Arthur Whitney**_ &nbsp; Yes. I went millions and millions of hours with no p
 
 _**Bryan Cantrill**_ &nbsp; That’s a relief to hear because it seems that societally we have come to accept bugs as being endemic in software. When you’re
 
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; talking about the program being its own proof, I think it gets to the fact that really these programs are much more like proofs. A proof is either correct, or it’s flawed: there’s no middle ground for a proof.
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; talking about the program being its own proof, I think it gets to the fact that really these programs are much more like proofs.
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; A proof is either correct, or it’s flawed: there’s no middle ground for a proof.
 
 _**Arthur Whitney**_ &nbsp; I want to see if I can get better. Kx is doing fantastic, and it takes just a few hours a month for me, so now I have a clean slate. Every few years I have to do a new language, but the customers don’t really like that.
 
