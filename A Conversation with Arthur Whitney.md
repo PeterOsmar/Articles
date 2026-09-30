@@ -285,13 +285,9 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; trillion-row databases — and in thos
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; knew the kinds of operations that they were doing and I finally found it by just reading my code.
 
-\- _**Bryan Cantrill**_
+_**Bryan Cantrill**_ &nbsp; Was this a bug in K or Q, or was it in the C base implementation?
 
-$~~$ Was this a bug in K or Q, or was it in the C base implementation?
-
-\- _**Arthur Whitney**_
-
-$~~$ It was a bug in C, in my implementation.
+_**Arthur Whitney**_ &nbsp; It was a bug in C, in my implementation.
 
 \- _**Bryan Cantrill**_
 
