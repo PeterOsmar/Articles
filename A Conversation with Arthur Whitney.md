@@ -81,7 +81,9 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; retired from IBM after 20 years and wa
 
 _**Arthur Whitney**_ &nbsp; I.P. Sharp was an amazing company. It had its own worldwide network that had nothing to do with DARPA (Defense
 
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; Advanced Research Projects Agency). We were sending e-mails and instant messages to Australia and Singapore. The whole company was APL.
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; Advanced Research Projects Agency). We were sending e-mails and instant messages to Australia and Singapore. The whole
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; company was APL.
 
 \- _**Bryan Cantrill**_
 
