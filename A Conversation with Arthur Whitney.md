@@ -65,15 +65,9 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; cool. In ’74 when I went to a univer
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; because 5 years earlier I had already seen interactive programming.
 
-\- _**Bryan Cantrill**_
+_**Bryan Cantrill**_ &nbsp; Did you start working on APL at Waterloo?
 
-$~~$ Did you start working on APL at Waterloo?
-
-\- _**Arthur Whitney**_
-
-$~~$ No, at Waterloo I just did some APL for a week. I was a math major and I wasn’t interested in computers because I just wanted to do pure
-
-$~~$ math. So I really missed a big opportunity.
+_**Arthur Whitney**_ &nbsp; No, at Waterloo I just did some APL for a week. I was a math major and I wasn’t interested in computers because I just wanted to do pure math. So I really missed a big opportunity.
 
 \- _**Bryan Cantrill**_
 
