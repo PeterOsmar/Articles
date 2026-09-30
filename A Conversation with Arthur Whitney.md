@@ -433,7 +433,9 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; encourage them to do that because all 
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; realtime, so you have a lot of raw data. You have these billion rows of raw data spread among 3 tables, maybe. You might
 
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; have 10 or 20 smaller tables that represent a certain state, such as book. There are also certain calculations that you want to maintain so that you can do either constant-time look-up or binary-search look-up.
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; have 10 or 20 smaller tables that represent a certain state, such as book. There are also certain calculations that you want to
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; maintain so that you can do either constant-time look-up or binary-search look-up.
 
 \- _**Bryan Cantrill**_
 
