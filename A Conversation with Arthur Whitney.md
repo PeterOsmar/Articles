@@ -117,7 +117,9 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; there was artificial intelligence, but
 
 _**Arthur Whitney**_ &nbsp; My big break was in 1988 when I joined Morgan Stanley. There the motivation was a terabyte of TIC (Treasury International
 
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; Capital) data, and back then there were a few million transactions a day being processed by realtime trading systems. I think we had one of the biggest trading operations in the world. We had a portfolio that was a billion dollars: half a billion long, half a billion short. We were trading every second electronically. The data set was a terabyte, but we compressed it down. It was pairs trading, and I wrote an APL to do all of that — the big database and the realtime trading — so our entire department was using my language.
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; Capital) data, and back then there were a few million transactions a day being processed by realtime trading systems. I think
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; we had one of the biggest trading operations in the world. We had a portfolio that was a billion dollars: half a billion long, half a billion short. We were trading every second electronically. The data set was a terabyte, but we compressed it down. It was pairs trading, and I wrote an APL to do all of that — the big database and the realtime trading — so our entire department was using my language.
 
 \- _**Bryan Cantrill**_
 
