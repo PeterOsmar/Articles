@@ -487,13 +487,9 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; then write it out sequentially to disk
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; security and then time. During the day, however, it’s sorted by time.
 
-\- _**Bryan Cantrill**_
+_**Bryan Cantrill**_ &nbsp; That’s a large sort. How long does it take?
 
-$~~$ That’s a large sort. How long does it take?
-
-\- _**Arthur Whitney**_
-
-$~~$ You could be sorting a billion rows. That takes a couple of minutes.
+_**Arthur Whitney**_ &nbsp; You could be sorting a billion rows. That takes a couple of minutes.
 
 \- _**Bryan Cantrill**_
 
