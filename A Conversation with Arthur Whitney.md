@@ -329,7 +329,9 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; looking at a Q program they will know 
 
 _**Bryan Cantrill**_ &nbsp; How important is the readability to the uninitiated?
 
-_**Arthur Whitney**_ &nbsp; From a sales point of view, I think it has helped a lot. For someone who programs a few hours a week, I don’t think it would make any difference once they learned K or Q.
+_**Arthur Whitney**_ &nbsp; From a sales point of view, I think it has helped a lot. For someone who programs a few hours a week, I don’t think it would
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; make any difference once they learned K or Q.
 
 \- _**Bryan Cantrill**_
 
