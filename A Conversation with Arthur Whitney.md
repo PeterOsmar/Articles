@@ -243,7 +243,9 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; long papers that were just so well arg
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; conditions correctly. I could read the code and see the mistake, but I couldn’t read the proofs.
 
-_**Arthur Whitney**_ &nbsp; Ken believed that notation should be as high level as possible because, for example, if matrix product is plus-dot-times, there’s no question about that being correct.
+_**Arthur Whitney**_ &nbsp; Ken believed that notation should be as high level as possible because, for example, if matrix product is plus-dot-times,
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; there’s no question about that being correct.
 
 \- _**Bryan Cantrill**_
 
