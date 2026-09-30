@@ -359,15 +359,9 @@ _**Arthur Whitney**_ &nbsp; Yes. What I tell my community is if you can find a s
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; to hear about it. And if it’s shorter and faster, I absolutely want to hear about it.
 
-\- _**Bryan Cantrill**_
+_**Bryan Cantrill**_ &nbsp; Although I don’t know that I’ve got the same discipline, I share your sense of aesthetics about beautiful code. I don’t see that sense of aesthetics being very widespread in software. Shouldn’t it be, though?
 
-$~~$ Although I don’t know that I’ve got the same discipline, I share your sense of aesthetics about beautiful code. I don’t see that sense of
-
-$~~$ aesthetics being very widespread in software. Shouldn’t it be, though?
-
-\- _**Arthur Whitney**_
-
-$~~$ I think so. The thing about beautiful code is, first of all, it’s beautiful. Second, it’s a lot easier to maintain.
+_**Arthur Whitney**_ &nbsp; I think so. The thing about beautiful code is, first of all, it’s beautiful. Second, it’s a lot easier to maintain.
 
 \- _**Bryan Cantrill**_
 
