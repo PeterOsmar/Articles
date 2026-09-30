@@ -99,7 +99,9 @@ _**Arthur Whitney**_ &nbsp; I left I.P. Sharp sometime around 1980. Then I went 
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; mathematics, but mostly I was just goofing around. All through the ’80s I was implementing my own languages: object-
 
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; oriented languages, a lot of different LISPs, Prolog. In 1985 I got a job at Stanford, where I implemented a Prolog inference-engine kind of language. Then I was with an artificial intelligence company called Teknowledge.
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; oriented languages, a lot of different LISPs, Prolog. In 1985 I got a job at Stanford, where I implemented a Prolog inference-
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; engine kind of language. Then I was with an artificial intelligence company called Teknowledge.
 
 \- _**Bryan Cantrill**_
 
