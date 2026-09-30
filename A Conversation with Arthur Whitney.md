@@ -289,17 +289,9 @@ _**Bryan Cantrill**_ &nbsp; Was this a bug in K or Q, or was it in the C base im
 
 _**Arthur Whitney**_ &nbsp; It was a bug in C, in my implementation.
 
-\- _**Bryan Cantrill**_
+_**Bryan Cantrill**_ &nbsp; Is the nature of the problems that K and Q solve such that you just don’t have nonreproducible problems?
 
-$~~$ Is the nature of the problems that K and Q solve such that you just don’t have nonreproducible problems?
-
-\- _**Arthur Whitney**_
-
-$~~$ It seems ridiculous, but it’s only recently that we’ve been doing multithreading, so I guess we might start to see things that are much harder
-
-$~~$ to reproduce. Of course it has been event-driven since 1988. I don’t know why it is, but it has always been the case that people can quickly
-
-$~~$ find a tiny script that will show the problem.
+_**Arthur Whitney**_ &nbsp; It seems ridiculous, but it’s only recently that we’ve been doing multithreading, so I guess we might start to see things that are much harder to reproduce. Of course it has been event-driven since 1988. I don’t know why it is, but it has always been the case that people can quickly find a tiny script that will show the problem.
 
 \- _**Bryan Cantrill**_
 
