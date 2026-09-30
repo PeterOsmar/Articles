@@ -375,13 +375,9 @@ _**Bryan Cantrill**_ &nbsp; Is it elegant because it’s the shortest, or is bei
 
 _**Arthur Whitney**_ &nbsp; I guess it’s both. All things being equal, less code is always better.
 
-\- _**Bryan Cantrill**_
+_**Bryan Cantrill**_ &nbsp; I was just thinking of the analog to a proof. The shorter proof is almost always the more elegant proof.
 
-$~~$ I was just thinking of the analog to a proof. The shorter proof is almost always the more elegant proof.
-
-\- _**Arthur Whitney**_
-
-$~~$ It’s the same thing. It’s usually easier to understand.
+_**Arthur Whitney**_ &nbsp; It’s the same thing. It’s usually easier to understand.
 
 \- _**Bryan Cantrill**_
 
