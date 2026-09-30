@@ -121,7 +121,9 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; Capital) data, and back then there wer
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; we had one of the biggest trading operations in the world. We had a portfolio that was a billion dollars: half a billion long,
 
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; half a billion short. We were trading every second electronically. The data set was a terabyte, but we compressed it down. It was pairs trading, and I wrote an APL to do all of that — the big database and the realtime trading — so our entire department was using my language.
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; half a billion short. We were trading every second electronically. The data set was a terabyte, but we compressed it down. It
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; was pairs trading, and I wrote an APL to do all of that — the big database and the realtime trading — so our entire department was using my language.
 
 \- _**Bryan Cantrill**_
 
