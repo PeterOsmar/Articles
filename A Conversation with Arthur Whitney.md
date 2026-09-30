@@ -491,7 +491,9 @@ _**Bryan Cantrill**_ &nbsp; That’s a large sort. How long does it take?
 
 _**Arthur Whitney**_ &nbsp; You could be sorting a billion rows. That takes a couple of minutes.
 
-_**Bryan Cantrill**_ &nbsp; The single CPU pipes are approaching their limits. In terms of that sort taking a couple of minutes, that’s 100 percent compute time. Do you use single or multiple cores when you do it?
+_**Bryan Cantrill**_ &nbsp; The single CPU pipes are approaching their limits. In terms of that sort taking a couple of minutes, that’s 100 percent compute
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; time. Do you use single or multiple cores when you do it?
 
 _**Arthur Whitney**_ &nbsp; Single core. The data volumes are getting much bigger, and, of course, the core speed is not improving, so our customers have to split the symbol groups.
 
