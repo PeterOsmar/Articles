@@ -473,9 +473,7 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; run into those kinds of problems, or does
 
 _**Arthur Whitney**_ &nbsp; It’s always written temporally sequentially.
 
-\- _**Bryan Cantrill**_
-
-$~~$ So that doesn’t become an issue?
+_**Bryan Cantrill**_ &nbsp; So that doesn’t become an issue?
 
 \- _**Arthur Whitney**_
 
