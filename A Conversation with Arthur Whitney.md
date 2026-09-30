@@ -103,7 +103,9 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; oriented languages, a lot of different
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; engine kind of language. Then I was with an artificial intelligence company called Teknowledge.
 
-_**Bryan Cantrill**_ &nbsp; Were you developing these languages because you needed a certain expressive power in the language to solve a particular problem at hand? What were the motivations for these languages?
+_**Bryan Cantrill**_ &nbsp; Were you developing these languages because you needed a certain expressive power in the language to solve a particular
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; problem at hand? What were the motivations for these languages?
 
 _**Arthur Whitney**_ &nbsp; My motivation was always to create a general-purpose programming language that would solve all problems and be interpreted, but fast.
 
