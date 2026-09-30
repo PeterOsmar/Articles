@@ -203,7 +203,9 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; up in Edmonton as I did. One day I ask
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; do it in Cantonese because it’s faster and it’s completely regular.”
 
-_**Bryan Cantrill**_ &nbsp; This raises an interesting question. When I heard about your early exposure to APL, a part of me wondered if this was like growing up with tonal languages. I think for most people who do not grow up with a tonal language, the brain simply cannot hear or express some of the tone differences because we use tone differently in nontonal languages. Do you think that your exposure to this kind of programming at such a young age actually influenced your thinking at a more nascent level?
+_**Bryan Cantrill**_ &nbsp; This raises an interesting question. When I heard about your early exposure to APL, a part of me wondered if this was like
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; growing up with tonal languages. I think for most people who do not grow up with a tonal language, the brain simply cannot hear or express some of the tone differences because we use tone differently in nontonal languages. Do you think that your exposure to this kind of programming at such a young age actually influenced your thinking at a more nascent level?
 
 _**Arthur Whitney**_ &nbsp; I think so, and I think that if kids got it even younger, they would have a bigger advantage. I’ve noticed over the years that I miss things because I didn’t start young enough.
 
