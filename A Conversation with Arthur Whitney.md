@@ -365,15 +365,9 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; sense of aesthetics being very widespread
 
 _**Arthur Whitney**_ &nbsp; I think so. The thing about beautiful code is, first of all, it’s beautiful. Second, it’s a lot easier to maintain.
 
-\- _**Bryan Cantrill**_
+_**Bryan Cantrill**_ &nbsp; I think elegant is something that we all know when we see it, but how would you describe elegant code?
 
-$~~$ I think elegant is something that we all know when we see it, but how would you describe elegant code?
-
-\- _**Arthur Whitney**_
-
-$~~$ It’s just really clear. I don’t know what it is. In our community we have a listbox where people post questions and answers about coding, and
-
-$~~$ the elegant code is always the shortest code.
+_**Arthur Whitney**_ &nbsp; It’s just really clear. I don’t know what it is. In our community we have a listbox where people post questions and answers about coding, and the elegant code is always the shortest code.
 
 \- _**Bryan Cantrill**_
 
