@@ -199,7 +199,9 @@ _**Bryan Cantrill**_ &nbsp; Right. People are able to retain a 7-digit phone num
 
 _**Arthur Whitney**_ &nbsp; If you’re Cantonese, then it’s 10. I have a very good friend, Roger Hui, who implements J. He was born in Hong Kong but grew
 
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; up in Edmonton as I did. One day I asked him, “Roger, do you do math in English or Cantonese?” He smiled at me and said, “I do it in Cantonese because it’s faster and it’s completely regular.”
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; up in Edmonton as I did. One day I asked him, “Roger, do you do math in English or Cantonese?” He smiled at me and said, “I
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; do it in Cantonese because it’s faster and it’s completely regular.”
 
 \- _**Bryan Cantrill**_
 
