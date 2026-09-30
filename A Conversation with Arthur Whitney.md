@@ -161,9 +161,13 @@ _**Arthur Whitney**_ &nbsp; The primitives were a little different; the grammar 
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; very similar, but not enough to be anything close to portable.
 
-_**Bryan Cantrill**_ &nbsp; I’m sure that practitioners who know APL only by reputation are going to wonder if it used the same wonky characters as the original APL.
+_**Bryan Cantrill**_ &nbsp; I’m sure that practitioners who know APL only by reputation are going to wonder if it used the same wonky characters as the
 
-_**Arthur Whitney**_ &nbsp; Yes, at Morgan Stanley I did use the APL characters, but on my next iteration, K, which was in ’92, I gave up on those characters.
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; original APL.
+
+_**Arthur Whitney**_ &nbsp; Yes, at Morgan Stanley I did use the APL characters, but on my next iteration, K, which was in ’92, I gave up on those
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; characters.
 
 \- _**Bryan Cantrill**_
 
