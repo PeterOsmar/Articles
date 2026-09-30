@@ -187,13 +187,10 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; them; many languages use the balance. And
 
 _**Arthur Whitney**_ &nbsp; Certainly it’s unfamiliar, and people say, “Oh, it looks like line noise.” But even kids can learn this quickly.
 
-_**Bryan Cantrill**_ &nbsp; Obviously, a point of pride for K is the ability to phrase things concisely. Is there any length that is too short, where you’ve actually squeezed too much information out in terms of its readability?
+_**Bryan Cantrill**_ &nbsp; Obviously, a point of pride for K is the ability to phrase things concisely. Is there any length that is too short, where you’ve
+actually squeezed too much information out in terms of its readability?
 
-\- _**Arthur Whitney**_
-
-$~~$ Yes, and I expect I cross that boundary a lot. But if every line has up to 7 operations, then I think that’s manageable. In fact, we can remember
-
-$~~$ 7 things.
+_**Arthur Whitney**_ &nbsp; Yes, and I expect I cross that boundary a lot. But if every line has up to 7 operations, then I think that’s manageable. In fact, we can remember 7 things.
 
 \- _**Bryan Cantrill**_
 
