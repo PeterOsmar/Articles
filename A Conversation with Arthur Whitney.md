@@ -507,7 +507,9 @@ _**Bryan Cantrill**_ &nbsp; What about making K or Q implicitly parallel, where 
 
 _**Arthur Whitney**_ &nbsp; Maybe. I’ve done parallel programming since ’75, and K is a parallel language. How ironic — this must be the most parallel
 
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; language there is. The most prominent operator is each, which is parallel. There are no control structures. The primitives themselves are parallel.
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; language there is. The most prominent operator is each, which is parallel. There are no control structures. The primitives
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; themselves are parallel.
 
 \- _**Bryan Cantrill**_
 
