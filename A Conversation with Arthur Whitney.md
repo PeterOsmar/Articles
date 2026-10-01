@@ -503,15 +503,9 @@ _**Bryan Cantrill**_ &nbsp; Then you’ve got to segment your data flow somehow 
 
 _**Arthur Whitney**_ &nbsp; Yes, and we’re right at that limit now, because with a single core we can do about a million updates a second.
 
-\- _**Bryan Cantrill**_
+_**Bryan Cantrill**_ &nbsp; What about making K or Q implicitly parallel, where you’re parallelizing under the hood? Is that a possibility?
 
-$~~$ What about making K or Q implicitly parallel, where you’re parallelizing under the hood? Is that a possibility?
-
-\- _**Arthur Whitney**_
-
-$~~$ Maybe. I’ve done parallel programming since ’75, and K is a parallel language. How ironic — this must be the most parallel language there is.
-
-$~~$ The most prominent operator is each, which is parallel. There are no control structures. The primitives themselves are parallel.
+_**Arthur Whitney**_ &nbsp; Maybe. I’ve done parallel programming since ’75, and K is a parallel language. How ironic — this must be the most parallel language there is. The most prominent operator is each, which is parallel. There are no control structures. The primitives themselves are parallel.
 
 \- _**Bryan Cantrill**_
 
