@@ -511,17 +511,9 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; language there is. The most prominent 
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; themselves are parallel.
 
-\- _**Bryan Cantrill**_
+_**Bryan Cantrill**_ &nbsp; Is that something you’re thinking about doing? Will that parallel each actually consume multiple cores?
 
-$~~$ Is that something you’re thinking about doing? Will that parallel each actually consume multiple cores?
-
-\- _**Arthur Whitney**_
-
-$~~$ Yes, but that doesn’t solve the sorting problem, and it really doesn’t solve the realtime problem, because in realtime if I get an IBM quote, it’s
-
-$~~$ 1 record. I might want to check it against everything else. Certainly, if I’ve got 1 / 8 of the symbols operating entirely on their own, then that’s
-
-$~~$ very easy to parallelize; but if your strategy involves all of the symbols all the time, that would be very difficult to run in parallel.
+_**Arthur Whitney**_ &nbsp; Yes, but that doesn’t solve the sorting problem, and it really doesn’t solve the realtime problem, because in realtime if I get an IBM quote, it’s 1 record. I might want to check it against everything else. Certainly, if I’ve got 1 / 8 of the symbols operating entirely on their own, then that’s very easy to parallelize; but if your strategy involves all of the symbols all the time, that would be very difficult to run in parallel.
 
 \- _**Bryan Cantrill**_
 
