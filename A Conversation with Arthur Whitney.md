@@ -547,13 +547,9 @@ _**Arthur Whitney**_ &nbsp; The implementation is 100 percent new. I write every
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; are about 95 percent the same.
 
-\- _**Bryan Cantrill**_
+_**Bryan Cantrill**_ &nbsp; You start over in terms of your C code? You take all that and throw it out?
 
-$~~$ You start over in terms of your C code? You take all that and throw it out?
-
-\- _**Arthur Whitney**_
-
-$~~$ Yes, completely.
+_**Arthur Whitney**_ &nbsp; Yes, completely.
 
 \- _**Bryan Cantrill**_
 
