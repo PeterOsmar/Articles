@@ -525,23 +525,9 @@ _**Bryan Cantrill**_ &nbsp; What’s the solution?
 
 _**Arthur Whitney**_ &nbsp; I think we just won’t be able to do those kinds of algorithms.
 
-\- _**Bryan Cantrill**_
+_**Bryan Cantrill**_ &nbsp; You have this 4-year itch to write a new programming language, so you’re coming due. Are the constraints on the problem any different? What’s the new language going to look like?
 
-$~~$ You have this 4-year itch to write a new programming language, so you’re coming due. Are the constraints on the problem any different?
-
-$~~$ What’s the new language going to look like?
-
-\- _**Arthur Whitney**_
-
-$~~$ It will probably be 95 percent the same. It’s the same semantics: noun, verb, adverb — same data types, same functions. But I like to try
-
-$~~$ different things under the covers. For example, I like to try different memory allocation schemes. It’s all call by value but reference count,
-
-$~~$ which is kind of amazing when you think about it, so there’s no garbage collect. Everything is reference counted; when it’s free, you know
-
-$~~$ immediately so you get good reuse. Under the covers, I play with different things. For example, if you’re doing a vector operation and the
-
-$~~$ reference count is 1, well, then reuse the vector. I also always try to make the code smaller.
+_**Arthur Whitney**_ &nbsp; It will probably be 95 percent the same. It’s the same semantics: noun, verb, adverb — same data types, same functions. But I like to try different things under the covers. For example, I like to try different memory allocation schemes. It’s all call by value but reference count, which is kind of amazing when you think about it, so there’s no garbage collect. Everything is reference counted; when it’s free, you know immediately so you get good reuse. Under the covers, I play with different things. For example, if you’re doing a vector operation and the reference count is 1, well, then reuse the vector. I also always try to make the code smaller.
 
 \- _**Bryan Cantrill**_
 
