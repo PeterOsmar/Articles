@@ -43,7 +43,7 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~$ was gracious enough to invite Cantrill to his home
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~$ essence of elegance.
 
-### Conversation
+## Conversation
 
 _**Bryan Cantrill**_ &nbsp; You are a bit of a rarity in software engineering in that you have been writing software on a daily basis for decades. Your 1st
 
