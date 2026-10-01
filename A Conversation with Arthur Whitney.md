@@ -563,12 +563,8 @@ _**Bryan Cantrill**_ &nbsp; Is that advice you would give to practitioners: to t
 
 _**Arthur Whitney**_ &nbsp; Yes, but in business it’s hard to do that.
 
-\- _**Bryan Cantrill**_
+_**Bryan Cantrill**_ &nbsp; Especially when it’s working!
 
-$~~$ Especially when it’s working!
-
-\- _**Arthur Whitney**_
-
-$~~$ But I love throwing it all out.
+_**Arthur Whitney**_ &nbsp; But I love throwing it all out.
 
 **Source URL**: https://queue.acm.org/doi/full/10.1145/1515964.1531242
