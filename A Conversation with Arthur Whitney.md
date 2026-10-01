@@ -543,7 +543,9 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; the code smaller.
 
 _**Bryan Cantrill**_ &nbsp; Are you actually redoing the implementation, or are there going to be semantic differences as well?
 
-_**Arthur Whitney**_ &nbsp; The implementation is 100 percent new. I write everything from scratch, so the C code is entirely different but the semantics are about 95 percent the same.
+_**Arthur Whitney**_ &nbsp; The implementation is 100 percent new. I write everything from scratch, so the C code is entirely different but the semantics
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; are about 95 percent the same.
 
 \- _**Bryan Cantrill**_
 
