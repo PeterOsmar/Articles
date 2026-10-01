@@ -521,13 +521,9 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; entirely on their own, then that’s v
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; would be very difficult to run in parallel.
 
-\- _**Bryan Cantrill**_
+_**Bryan Cantrill**_ &nbsp; What’s the solution?
 
-$~~$ What’s the solution?
-
-\- _**Arthur Whitney**_
-
-$~~$ I think we just won’t be able to do those kinds of algorithms.
+_**Arthur Whitney**_ &nbsp; I think we just won’t be able to do those kinds of algorithms.
 
 \- _**Bryan Cantrill**_
 
