@@ -541,15 +541,9 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; example, if you’re doing a vector op
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; the code smaller.
 
-\- _**Bryan Cantrill**_
+_**Bryan Cantrill**_ &nbsp; Are you actually redoing the implementation, or are there going to be semantic differences as well?
 
-$~~$ Are you actually redoing the implementation, or are there going to be semantic differences as well?
-
-\- _**Arthur Whitney**_
-
-$~~$ The implementation is 100 percent new. I write everything from scratch, so the C code is entirely different but the semantics are about 95
-
-$~~$ percent the same.
+_**Arthur Whitney**_ &nbsp; The implementation is 100 percent new. I write everything from scratch, so the C code is entirely different but the semantics are about 95 percent the same.
 
 \- _**Bryan Cantrill**_
 
