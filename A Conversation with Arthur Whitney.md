@@ -555,13 +555,9 @@ _**Bryan Cantrill**_ &nbsp; What does it feel like to part with all that code th
 
 _**Arthur Whitney**_ &nbsp; I love starting from scratch — and it’s stupid because doing the parser, tokenizer, and printer takes me months.
 
-\- _**Bryan Cantrill**_
+_**Bryan Cantrill**_ &nbsp; Do you find that you can come up with a better solution?
 
-$~~$ Do you find that you can come up with a better solution?
-
-\- _**Arthur Whitney**_
-
-$~~$ I think they’re getting a little bit better, but I think I’m converging.
+_**Arthur Whitney**_ &nbsp; I think they’re getting a little bit better, but I think I’m converging.
 
 \- _**Bryan Cantrill**_
 
