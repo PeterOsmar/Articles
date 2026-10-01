@@ -537,7 +537,9 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; but reference count, which is kind of 
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; counted; when it’s free, you know immediately so you get good reuse. Under the covers, I play with different things. For
 
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; example, if you’re doing a vector operation and the reference count is 1, well, then reuse the vector. I also always try to make the code smaller.
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; example, if you’re doing a vector operation and the reference count is 1, well, then reuse the vector. I also always try to make
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; the code smaller.
 
 \- _**Bryan Cantrill**_
 
