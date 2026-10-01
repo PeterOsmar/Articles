@@ -499,13 +499,9 @@ _**Arthur Whitney**_ &nbsp; Single core. The data volumes are getting much bigge
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; have to split the symbol groups.
 
-\- _**Bryan Cantrill**_
+_**Bryan Cantrill**_ &nbsp; Then you’ve got to segment your data flow somehow to reflect the fact that single-core performance is not improving.
 
-$~~$ Then you’ve got to segment your data flow somehow to reflect the fact that single-core performance is not improving.
-
-\- _**Arthur Whitney**_
-
-$~~$ Yes, and we’re right at that limit now, because with a single core we can do about a million updates a second.
+_**Arthur Whitney**_ &nbsp; Yes, and we’re right at that limit now, because with a single core we can do about a million updates a second.
 
 \- _**Bryan Cantrill**_
 
