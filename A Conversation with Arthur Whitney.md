@@ -551,13 +551,9 @@ _**Bryan Cantrill**_ &nbsp; You start over in terms of your C code? You take all
 
 _**Arthur Whitney**_ &nbsp; Yes, completely.
 
-\- _**Bryan Cantrill**_
+_**Bryan Cantrill**_ &nbsp; What does it feel like to part with all that code that’s so lovingly created?
 
-$~~$ What does it feel like to part with all that code that’s so lovingly created?
-
-\- _**Arthur Whitney**_
-
-$~~$ I love starting from scratch — and it’s stupid because doing the parser, tokenizer, and printer takes me months.
+_**Arthur Whitney**_ &nbsp; I love starting from scratch — and it’s stupid because doing the parser, tokenizer, and printer takes me months.
 
 \- _**Bryan Cantrill**_
 
