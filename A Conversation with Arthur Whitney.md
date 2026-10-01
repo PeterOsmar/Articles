@@ -505,7 +505,9 @@ _**Arthur Whitney**_ &nbsp; Yes, and we’re right at that limit now, because wi
 
 _**Bryan Cantrill**_ &nbsp; What about making K or Q implicitly parallel, where you’re parallelizing under the hood? Is that a possibility?
 
-_**Arthur Whitney**_ &nbsp; Maybe. I’ve done parallel programming since ’75, and K is a parallel language. How ironic — this must be the most parallel language there is. The most prominent operator is each, which is parallel. There are no control structures. The primitives themselves are parallel.
+_**Arthur Whitney**_ &nbsp; Maybe. I’ve done parallel programming since ’75, and K is a parallel language. How ironic — this must be the most parallel
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ &nbsp; language there is. The most prominent operator is each, which is parallel. There are no control structures. The primitives themselves are parallel.
 
 \- _**Bryan Cantrill**_
 
