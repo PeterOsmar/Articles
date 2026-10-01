@@ -559,13 +559,9 @@ _**Bryan Cantrill**_ &nbsp; Do you find that you can come up with a better solut
 
 _**Arthur Whitney**_ &nbsp; I think they’re getting a little bit better, but I think I’m converging.
 
-\- _**Bryan Cantrill**_
+_**Bryan Cantrill**_ &nbsp; Is that advice you would give to practitioners: to throw out more?
 
-$~~$ Is that advice you would give to practitioners: to throw out more?
-
-\- _**Arthur Whitney**_
-
-$~~$ Yes, but in business it’s hard to do that.
+_**Arthur Whitney**_ &nbsp; Yes, but in business it’s hard to do that.
 
 \- _**Bryan Cantrill**_
 
